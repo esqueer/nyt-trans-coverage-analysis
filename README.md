@@ -73,7 +73,6 @@ type, NYT subject keywords, word count, and the scores:
 
 | File | What it is |
 |------|------------|
-| `dashboard_data.json` | Aggregated matrices powering the dashboard |
 | `analysis_results.json` | Summary tables (framing counts, breakdowns) |
 | `nlp_baseline.json` | VADER baseline scores per article |
 | `nlp_llm_disagreements.csv` | Where the word-counter and the models diverge |
