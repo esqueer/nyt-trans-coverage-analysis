@@ -1,0 +1,4942 @@
+{
+  "summary": {
+    "total_articles": 3242,
+    "date_range": {
+      "earliest": "2014-01-06",
+      "latest": "2026-04-13"
+    },
+    "material_types": {
+      "News": 2300,
+      "Op-Ed": 365,
+      "Review": 147,
+      "Letter": 92,
+      "Editorial": 68,
+      "Interactive Feature": 62,
+      "Obituary (Obit)": 57,
+      "Video": 48,
+      "briefing": 27,
+      "Slideshow": 15,
+      "Live Blog Post": 13,
+      "Brief": 10,
+      "Schedule": 8,
+      "Correction": 6,
+      "Question": 5,
+      "Quote": 5,
+      "Interview": 4,
+      "Biography": 3,
+      "Unknown": 3,
+      "List": 3,
+      "News Analysis": 1
+    }
+  },
+  "framing_analysis": {
+    "primary_framing_counts": {
+      "legislative_neutral": 1020,
+      "unclassified": 611,
+      "rights_affirming": 451,
+      "human_interest": 318,
+      "arts_culture": 300,
+      "culture_war": 234,
+      "violence_safety": 142,
+      "medical_skepticism": 113,
+      "obituary_memorial": 27,
+      "international": 26
+    },
+    "all_framing_mentions": {
+      "legislative_neutral": 1216,
+      "rights_affirming": 875,
+      "culture_war": 620,
+      "unclassified": 611,
+      "human_interest": 594,
+      "arts_culture": 521,
+      "violence_safety": 322,
+      "medical_skepticism": 175,
+      "obituary_memorial": 106,
+      "international": 99
+    },
+    "monthly_framing": {
+      "2014-01": {
+        "unclassified": 5,
+        "human_interest": 1,
+        "arts_culture": 1,
+        "legislative_neutral": 1
+      },
+      "2014-02": {
+        "violence_safety": 1,
+        "legislative_neutral": 4,
+        "rights_affirming": 3,
+        "arts_culture": 2,
+        "medical_skepticism": 1
+      },
+      "2014-03": {
+        "legislative_neutral": 2,
+        "rights_affirming": 3,
+        "arts_culture": 1,
+        "unclassified": 3
+      },
+      "2014-04": {
+        "unclassified": 3,
+        "legislative_neutral": 3,
+        "arts_culture": 3
+      },
+      "2014-05": {
+        "legislative_neutral": 6,
+        "medical_skepticism": 1,
+        "unclassified": 5,
+        "human_interest": 1,
+        "rights_affirming": 3
+      },
+      "2014-06": {
+        "human_interest": 2,
+        "unclassified": 4,
+        "rights_affirming": 5,
+        "legislative_neutral": 2
+      },
+      "2014-07": {
+        "unclassified": 3,
+        "legislative_neutral": 6,
+        "arts_culture": 3,
+        "human_interest": 1,
+        "culture_war": 1
+      },
+      "2014-08": {
+        "legislative_neutral": 1,
+        "human_interest": 2,
+        "unclassified": 1,
+        "rights_affirming": 1
+      },
+      "2014-09": {
+        "rights_affirming": 2,
+        "unclassified": 4,
+        "human_interest": 4,
+        "arts_culture": 1
+      },
+      "2014-10": {
+        "arts_culture": 1,
+        "rights_affirming": 2,
+        "legislative_neutral": 1,
+        "unclassified": 1,
+        "violence_safety": 1
+      },
+      "2014-11": {
+        "legislative_neutral": 4,
+        "culture_war": 1,
+        "arts_culture": 2,
+        "unclassified": 2,
+        "rights_affirming": 1
+      },
+      "2014-12": {
+        "rights_affirming": 6,
+        "arts_culture": 1,
+        "unclassified": 1,
+        "human_interest": 2,
+        "legislative_neutral": 3,
+        "violence_safety": 1
+      },
+      "2015-01": {
+        "human_interest": 5,
+        "rights_affirming": 4,
+        "legislative_neutral": 2,
+        "unclassified": 2,
+        "culture_war": 1
+      },
+      "2015-02": {
+        "legislative_neutral": 3,
+        "unclassified": 8,
+        "human_interest": 1,
+        "arts_culture": 3
+      },
+      "2015-03": {
+        "violence_safety": 1,
+        "arts_culture": 1,
+        "unclassified": 7,
+        "rights_affirming": 2,
+        "human_interest": 1
+      },
+      "2015-04": {
+        "legislative_neutral": 7,
+        "violence_safety": 2,
+        "unclassified": 5,
+        "human_interest": 2,
+        "rights_affirming": 1
+      },
+      "2015-05": {
+        "arts_culture": 2,
+        "legislative_neutral": 7,
+        "rights_affirming": 4,
+        "human_interest": 3,
+        "unclassified": 5
+      },
+      "2015-06": {
+        "unclassified": 15,
+        "rights_affirming": 7,
+        "legislative_neutral": 8,
+        "culture_war": 1,
+        "human_interest": 5,
+        "arts_culture": 4
+      },
+      "2015-07": {
+        "rights_affirming": 7,
+        "arts_culture": 4,
+        "legislative_neutral": 6,
+        "violence_safety": 3,
+        "human_interest": 3,
+        "culture_war": 2,
+        "obituary_memorial": 2,
+        "unclassified": 5
+      },
+      "2015-08": {
+        "unclassified": 7,
+        "arts_culture": 3,
+        "rights_affirming": 3,
+        "legislative_neutral": 2,
+        "violence_safety": 3,
+        "culture_war": 1,
+        "human_interest": 2
+      },
+      "2015-09": {
+        "culture_war": 3,
+        "unclassified": 5,
+        "arts_culture": 4,
+        "legislative_neutral": 6,
+        "violence_safety": 2,
+        "international": 1,
+        "human_interest": 1,
+        "rights_affirming": 1
+      },
+      "2015-10": {
+        "unclassified": 6,
+        "legislative_neutral": 4,
+        "rights_affirming": 5,
+        "arts_culture": 1,
+        "human_interest": 2,
+        "culture_war": 1,
+        "medical_skepticism": 1
+      },
+      "2015-11": {
+        "rights_affirming": 13,
+        "unclassified": 6,
+        "legislative_neutral": 7,
+        "culture_war": 2,
+        "arts_culture": 4,
+        "human_interest": 4,
+        "international": 1
+      },
+      "2015-12": {
+        "violence_safety": 2,
+        "human_interest": 7,
+        "unclassified": 2,
+        "legislative_neutral": 7,
+        "obituary_memorial": 1,
+        "arts_culture": 2,
+        "rights_affirming": 1,
+        "culture_war": 1
+      },
+      "2016-01": {
+        "arts_culture": 6,
+        "unclassified": 3,
+        "rights_affirming": 1,
+        "legislative_neutral": 1
+      },
+      "2016-02": {
+        "rights_affirming": 2,
+        "legislative_neutral": 6,
+        "human_interest": 1,
+        "unclassified": 1,
+        "arts_culture": 1,
+        "violence_safety": 1
+      },
+      "2016-03": {
+        "culture_war": 3,
+        "legislative_neutral": 10,
+        "arts_culture": 5,
+        "human_interest": 5,
+        "rights_affirming": 3,
+        "unclassified": 3,
+        "violence_safety": 1,
+        "medical_skepticism": 1
+      },
+      "2016-04": {
+        "legislative_neutral": 24,
+        "human_interest": 3,
+        "unclassified": 9,
+        "rights_affirming": 7,
+        "culture_war": 10,
+        "violence_safety": 2,
+        "arts_culture": 3
+      },
+      "2016-05": {
+        "arts_culture": 2,
+        "culture_war": 13,
+        "legislative_neutral": 25,
+        "medical_skepticism": 2,
+        "unclassified": 11,
+        "rights_affirming": 9,
+        "human_interest": 1
+      },
+      "2016-06": {
+        "unclassified": 10,
+        "legislative_neutral": 9,
+        "human_interest": 7,
+        "violence_safety": 6,
+        "culture_war": 4,
+        "rights_affirming": 12,
+        "arts_culture": 5
+      },
+      "2016-07": {
+        "rights_affirming": 7,
+        "violence_safety": 1,
+        "legislative_neutral": 6,
+        "culture_war": 1,
+        "unclassified": 3,
+        "human_interest": 1,
+        "arts_culture": 2,
+        "international": 1
+      },
+      "2016-08": {
+        "human_interest": 3,
+        "legislative_neutral": 5,
+        "rights_affirming": 3,
+        "violence_safety": 1,
+        "unclassified": 2,
+        "arts_culture": 2
+      },
+      "2016-09": {
+        "unclassified": 5,
+        "rights_affirming": 3,
+        "human_interest": 4,
+        "arts_culture": 3,
+        "legislative_neutral": 5,
+        "culture_war": 1,
+        "violence_safety": 1
+      },
+      "2016-10": {
+        "legislative_neutral": 3,
+        "unclassified": 2,
+        "medical_skepticism": 1,
+        "human_interest": 4,
+        "arts_culture": 1,
+        "rights_affirming": 2,
+        "culture_war": 2
+      },
+      "2016-11": {
+        "human_interest": 3,
+        "legislative_neutral": 4,
+        "culture_war": 2,
+        "arts_culture": 1,
+        "unclassified": 1,
+        "rights_affirming": 2,
+        "violence_safety": 1
+      },
+      "2016-12": {
+        "legislative_neutral": 7,
+        "human_interest": 1,
+        "arts_culture": 1,
+        "rights_affirming": 4,
+        "unclassified": 4,
+        "culture_war": 1
+      },
+      "2017-01": {
+        "unclassified": 7,
+        "violence_safety": 3,
+        "culture_war": 2,
+        "legislative_neutral": 9,
+        "rights_affirming": 4,
+        "human_interest": 3
+      },
+      "2017-02": {
+        "legislative_neutral": 10,
+        "unclassified": 11,
+        "rights_affirming": 14,
+        "human_interest": 3,
+        "culture_war": 2,
+        "violence_safety": 1,
+        "arts_culture": 1,
+        "medical_skepticism": 1
+      },
+      "2017-03": {
+        "culture_war": 5,
+        "legislative_neutral": 11,
+        "unclassified": 7,
+        "arts_culture": 1,
+        "rights_affirming": 1,
+        "violence_safety": 1,
+        "human_interest": 1
+      },
+      "2017-04": {
+        "legislative_neutral": 5,
+        "rights_affirming": 5,
+        "violence_safety": 1,
+        "culture_war": 1,
+        "unclassified": 7,
+        "human_interest": 4,
+        "medical_skepticism": 1,
+        "arts_culture": 1
+      },
+      "2017-05": {
+        "human_interest": 4,
+        "legislative_neutral": 9,
+        "arts_culture": 2,
+        "violence_safety": 1,
+        "unclassified": 4,
+        "rights_affirming": 1
+      },
+      "2017-06": {
+        "legislative_neutral": 7,
+        "human_interest": 3,
+        "unclassified": 4,
+        "violence_safety": 2,
+        "rights_affirming": 8,
+        "arts_culture": 3,
+        "culture_war": 1
+      },
+      "2017-07": {
+        "violence_safety": 1,
+        "legislative_neutral": 25,
+        "human_interest": 2,
+        "rights_affirming": 6,
+        "arts_culture": 2,
+        "unclassified": 1
+      },
+      "2017-08": {
+        "legislative_neutral": 15,
+        "unclassified": 3,
+        "violence_safety": 2,
+        "culture_war": 1,
+        "human_interest": 3,
+        "arts_culture": 1
+      },
+      "2017-09": {
+        "violence_safety": 3,
+        "rights_affirming": 2,
+        "legislative_neutral": 3,
+        "arts_culture": 3,
+        "culture_war": 2
+      },
+      "2017-10": {
+        "unclassified": 6,
+        "international": 1,
+        "human_interest": 3,
+        "legislative_neutral": 6,
+        "violence_safety": 3,
+        "rights_affirming": 5,
+        "arts_culture": 2
+      },
+      "2017-11": {
+        "culture_war": 1,
+        "violence_safety": 4,
+        "legislative_neutral": 12,
+        "human_interest": 4,
+        "obituary_memorial": 1,
+        "unclassified": 4,
+        "rights_affirming": 1
+      },
+      "2017-12": {
+        "unclassified": 5,
+        "arts_culture": 1,
+        "human_interest": 4,
+        "legislative_neutral": 5
+      },
+      "2018-01": {
+        "human_interest": 3,
+        "unclassified": 2,
+        "rights_affirming": 3,
+        "legislative_neutral": 4
+      },
+      "2018-02": {
+        "human_interest": 4,
+        "arts_culture": 3,
+        "unclassified": 4,
+        "medical_skepticism": 1,
+        "legislative_neutral": 4,
+        "rights_affirming": 1,
+        "culture_war": 1
+      },
+      "2018-03": {
+        "violence_safety": 2,
+        "legislative_neutral": 8,
+        "obituary_memorial": 1,
+        "arts_culture": 2,
+        "rights_affirming": 1,
+        "unclassified": 2
+      },
+      "2018-04": {
+        "legislative_neutral": 3,
+        "culture_war": 1,
+        "arts_culture": 2,
+        "rights_affirming": 3,
+        "unclassified": 2,
+        "human_interest": 2
+      },
+      "2018-05": {
+        "legislative_neutral": 4,
+        "human_interest": 1,
+        "rights_affirming": 3,
+        "international": 1,
+        "arts_culture": 2,
+        "unclassified": 3
+      },
+      "2018-06": {
+        "unclassified": 5,
+        "arts_culture": 3,
+        "rights_affirming": 6,
+        "legislative_neutral": 3,
+        "human_interest": 6
+      },
+      "2018-07": {
+        "unclassified": 8,
+        "legislative_neutral": 3,
+        "rights_affirming": 3,
+        "arts_culture": 4,
+        "human_interest": 2,
+        "culture_war": 1,
+        "international": 1
+      },
+      "2018-08": {
+        "international": 1,
+        "legislative_neutral": 6,
+        "unclassified": 2,
+        "violence_safety": 2,
+        "culture_war": 1,
+        "human_interest": 1
+      },
+      "2018-09": {
+        "legislative_neutral": 3,
+        "human_interest": 4,
+        "arts_culture": 1,
+        "unclassified": 3,
+        "violence_safety": 1
+      },
+      "2018-10": {
+        "obituary_memorial": 1,
+        "unclassified": 12,
+        "human_interest": 3,
+        "culture_war": 1,
+        "legislative_neutral": 9,
+        "rights_affirming": 5,
+        "arts_culture": 4
+      },
+      "2018-11": {
+        "violence_safety": 2,
+        "legislative_neutral": 4,
+        "arts_culture": 2,
+        "unclassified": 4,
+        "human_interest": 2,
+        "medical_skepticism": 1
+      },
+      "2018-12": {
+        "human_interest": 2,
+        "rights_affirming": 1,
+        "unclassified": 1,
+        "legislative_neutral": 1,
+        "violence_safety": 1
+      },
+      "2019-01": {
+        "arts_culture": 2,
+        "human_interest": 1,
+        "culture_war": 2,
+        "violence_safety": 2,
+        "legislative_neutral": 7,
+        "unclassified": 2,
+        "medical_skepticism": 1
+      },
+      "2019-02": {
+        "legislative_neutral": 5,
+        "rights_affirming": 3,
+        "human_interest": 2,
+        "unclassified": 3,
+        "culture_war": 1,
+        "obituary_memorial": 1
+      },
+      "2019-03": {
+        "arts_culture": 2,
+        "unclassified": 5,
+        "legislative_neutral": 5,
+        "violence_safety": 1,
+        "rights_affirming": 2,
+        "human_interest": 1,
+        "culture_war": 1
+      },
+      "2019-04": {
+        "unclassified": 3,
+        "violence_safety": 4,
+        "legislative_neutral": 6,
+        "human_interest": 2,
+        "rights_affirming": 3,
+        "arts_culture": 1,
+        "culture_war": 1
+      },
+      "2019-05": {
+        "legislative_neutral": 11,
+        "arts_culture": 5,
+        "unclassified": 6,
+        "obituary_memorial": 1,
+        "rights_affirming": 4,
+        "culture_war": 1,
+        "violence_safety": 1,
+        "human_interest": 3
+      },
+      "2019-06": {
+        "rights_affirming": 18,
+        "legislative_neutral": 6,
+        "human_interest": 8,
+        "violence_safety": 5,
+        "unclassified": 10,
+        "arts_culture": 2,
+        "culture_war": 1,
+        "international": 1
+      },
+      "2019-07": {
+        "rights_affirming": 5,
+        "unclassified": 2,
+        "arts_culture": 2,
+        "legislative_neutral": 3,
+        "human_interest": 1,
+        "culture_war": 1
+      },
+      "2019-08": {
+        "arts_culture": 3,
+        "unclassified": 5,
+        "legislative_neutral": 3,
+        "human_interest": 1,
+        "rights_affirming": 1
+      },
+      "2019-09": {
+        "unclassified": 4,
+        "arts_culture": 2,
+        "legislative_neutral": 5,
+        "rights_affirming": 3,
+        "violence_safety": 3,
+        "human_interest": 1
+      },
+      "2019-10": {
+        "arts_culture": 3,
+        "legislative_neutral": 5,
+        "medical_skepticism": 1,
+        "rights_affirming": 3,
+        "culture_war": 2,
+        "unclassified": 5
+      },
+      "2019-11": {
+        "legislative_neutral": 6,
+        "unclassified": 4,
+        "culture_war": 3,
+        "rights_affirming": 4,
+        "human_interest": 1
+      },
+      "2019-12": {
+        "legislative_neutral": 4,
+        "culture_war": 1,
+        "violence_safety": 2,
+        "unclassified": 3,
+        "rights_affirming": 2
+      },
+      "2020-01": {
+        "rights_affirming": 2,
+        "unclassified": 3,
+        "legislative_neutral": 3,
+        "culture_war": 1
+      },
+      "2020-02": {
+        "human_interest": 3,
+        "arts_culture": 4,
+        "violence_safety": 2,
+        "rights_affirming": 1
+      },
+      "2020-03": {
+        "rights_affirming": 3,
+        "unclassified": 1,
+        "international": 1,
+        "legislative_neutral": 2,
+        "culture_war": 1,
+        "arts_culture": 1
+      },
+      "2020-04": {
+        "culture_war": 1,
+        "obituary_memorial": 1,
+        "unclassified": 3,
+        "human_interest": 1,
+        "legislative_neutral": 3,
+        "violence_safety": 1
+      },
+      "2020-05": {
+        "violence_safety": 2,
+        "legislative_neutral": 5,
+        "unclassified": 1
+      },
+      "2020-06": {
+        "human_interest": 8,
+        "rights_affirming": 16,
+        "unclassified": 7,
+        "culture_war": 4,
+        "arts_culture": 5,
+        "legislative_neutral": 14,
+        "violence_safety": 1
+      },
+      "2020-07": {
+        "violence_safety": 3,
+        "legislative_neutral": 6,
+        "medical_skepticism": 1,
+        "arts_culture": 1,
+        "culture_war": 2,
+        "rights_affirming": 1,
+        "human_interest": 1
+      },
+      "2020-08": {
+        "obituary_memorial": 1,
+        "legislative_neutral": 6,
+        "unclassified": 2,
+        "arts_culture": 1,
+        "rights_affirming": 2,
+        "culture_war": 1,
+        "human_interest": 1
+      },
+      "2020-09": {
+        "arts_culture": 2,
+        "violence_safety": 2,
+        "legislative_neutral": 5,
+        "unclassified": 2,
+        "human_interest": 2,
+        "rights_affirming": 4,
+        "culture_war": 1
+      },
+      "2020-10": {
+        "obituary_memorial": 2,
+        "legislative_neutral": 2,
+        "human_interest": 2,
+        "culture_war": 1,
+        "rights_affirming": 4,
+        "arts_culture": 1,
+        "international": 2,
+        "unclassified": 1
+      },
+      "2020-11": {
+        "unclassified": 2,
+        "legislative_neutral": 1,
+        "human_interest": 3,
+        "arts_culture": 2,
+        "rights_affirming": 2,
+        "international": 1,
+        "medical_skepticism": 1,
+        "culture_war": 1
+      },
+      "2020-12": {
+        "rights_affirming": 2,
+        "unclassified": 4,
+        "arts_culture": 2,
+        "international": 2,
+        "human_interest": 1
+      },
+      "2021-01": {
+        "legislative_neutral": 8,
+        "human_interest": 3,
+        "unclassified": 3,
+        "obituary_memorial": 1,
+        "violence_safety": 1,
+        "rights_affirming": 1,
+        "arts_culture": 1
+      },
+      "2021-02": {
+        "human_interest": 3,
+        "legislative_neutral": 4,
+        "violence_safety": 1,
+        "arts_culture": 2,
+        "obituary_memorial": 1,
+        "culture_war": 1,
+        "unclassified": 2,
+        "international": 1
+      },
+      "2021-03": {
+        "arts_culture": 2,
+        "unclassified": 2,
+        "legislative_neutral": 9,
+        "culture_war": 6,
+        "human_interest": 1,
+        "rights_affirming": 1
+      },
+      "2021-04": {
+        "unclassified": 4,
+        "rights_affirming": 3,
+        "human_interest": 7,
+        "legislative_neutral": 15,
+        "culture_war": 1,
+        "arts_culture": 1
+      },
+      "2021-05": {
+        "unclassified": 8,
+        "rights_affirming": 6,
+        "legislative_neutral": 4,
+        "medical_skepticism": 1,
+        "arts_culture": 2,
+        "human_interest": 1,
+        "violence_safety": 1
+      },
+      "2021-06": {
+        "unclassified": 9,
+        "legislative_neutral": 16,
+        "rights_affirming": 9,
+        "arts_culture": 10,
+        "human_interest": 5,
+        "culture_war": 4
+      },
+      "2021-07": {
+        "legislative_neutral": 5,
+        "rights_affirming": 5,
+        "arts_culture": 1,
+        "medical_skepticism": 1,
+        "culture_war": 1
+      },
+      "2021-08": {
+        "unclassified": 2,
+        "arts_culture": 2,
+        "international": 1,
+        "violence_safety": 2,
+        "human_interest": 2,
+        "culture_war": 3,
+        "legislative_neutral": 1,
+        "rights_affirming": 2
+      },
+      "2021-09": {
+        "arts_culture": 4,
+        "unclassified": 7,
+        "rights_affirming": 8,
+        "human_interest": 3,
+        "legislative_neutral": 2,
+        "culture_war": 1
+      },
+      "2021-10": {
+        "unclassified": 10,
+        "rights_affirming": 3,
+        "legislative_neutral": 6,
+        "arts_culture": 2,
+        "culture_war": 3,
+        "human_interest": 1,
+        "violence_safety": 2,
+        "obituary_memorial": 1
+      },
+      "2021-11": {
+        "rights_affirming": 1,
+        "arts_culture": 4,
+        "unclassified": 4,
+        "culture_war": 1,
+        "human_interest": 1,
+        "legislative_neutral": 1
+      },
+      "2021-12": {
+        "unclassified": 4,
+        "arts_culture": 3,
+        "human_interest": 2,
+        "legislative_neutral": 1
+      },
+      "2022-01": {
+        "obituary_memorial": 1,
+        "unclassified": 4,
+        "medical_skepticism": 2,
+        "human_interest": 2,
+        "arts_culture": 1,
+        "culture_war": 1,
+        "legislative_neutral": 1,
+        "rights_affirming": 1
+      },
+      "2022-02": {
+        "legislative_neutral": 3,
+        "human_interest": 3,
+        "arts_culture": 2,
+        "culture_war": 2,
+        "unclassified": 4,
+        "medical_skepticism": 1
+      },
+      "2022-03": {
+        "legislative_neutral": 14,
+        "international": 1,
+        "human_interest": 3,
+        "unclassified": 7,
+        "medical_skepticism": 2,
+        "rights_affirming": 4,
+        "obituary_memorial": 1,
+        "culture_war": 2,
+        "arts_culture": 3
+      },
+      "2022-04": {
+        "arts_culture": 7,
+        "medical_skepticism": 4,
+        "legislative_neutral": 10,
+        "culture_war": 2,
+        "rights_affirming": 3,
+        "unclassified": 9,
+        "violence_safety": 3
+      },
+      "2022-05": {
+        "legislative_neutral": 3,
+        "medical_skepticism": 3,
+        "rights_affirming": 2,
+        "human_interest": 3,
+        "unclassified": 4,
+        "arts_culture": 2,
+        "obituary_memorial": 1,
+        "culture_war": 1
+      },
+      "2022-06": {
+        "rights_affirming": 8,
+        "legislative_neutral": 5,
+        "arts_culture": 3,
+        "culture_war": 3,
+        "human_interest": 5,
+        "medical_skepticism": 2,
+        "violence_safety": 1,
+        "unclassified": 6
+      },
+      "2022-07": {
+        "rights_affirming": 7,
+        "unclassified": 3,
+        "culture_war": 2,
+        "arts_culture": 3,
+        "medical_skepticism": 2,
+        "legislative_neutral": 3,
+        "human_interest": 1
+      },
+      "2022-08": {
+        "unclassified": 4,
+        "international": 1,
+        "arts_culture": 1,
+        "human_interest": 5,
+        "legislative_neutral": 5
+      },
+      "2022-09": {
+        "international": 1,
+        "violence_safety": 1,
+        "legislative_neutral": 7,
+        "human_interest": 2,
+        "unclassified": 3,
+        "arts_culture": 2,
+        "rights_affirming": 1,
+        "medical_skepticism": 1
+      },
+      "2022-10": {
+        "legislative_neutral": 4,
+        "culture_war": 2,
+        "rights_affirming": 1,
+        "arts_culture": 1,
+        "unclassified": 4,
+        "human_interest": 3
+      },
+      "2022-11": {
+        "medical_skepticism": 5,
+        "arts_culture": 4,
+        "legislative_neutral": 3,
+        "unclassified": 7,
+        "rights_affirming": 2,
+        "human_interest": 2,
+        "culture_war": 1,
+        "violence_safety": 5
+      },
+      "2022-12": {
+        "unclassified": 5,
+        "rights_affirming": 2,
+        "violence_safety": 5,
+        "legislative_neutral": 4,
+        "human_interest": 3,
+        "arts_culture": 3
+      },
+      "2023-01": {
+        "rights_affirming": 3,
+        "unclassified": 8,
+        "culture_war": 2,
+        "legislative_neutral": 10,
+        "human_interest": 4,
+        "arts_culture": 1
+      },
+      "2023-02": {
+        "arts_culture": 3,
+        "rights_affirming": 4,
+        "human_interest": 4,
+        "unclassified": 7,
+        "violence_safety": 3,
+        "culture_war": 4,
+        "legislative_neutral": 3
+      },
+      "2023-03": {
+        "legislative_neutral": 11,
+        "rights_affirming": 4,
+        "unclassified": 7,
+        "culture_war": 2
+      },
+      "2023-04": {
+        "unclassified": 5,
+        "medical_skepticism": 2,
+        "legislative_neutral": 30,
+        "culture_war": 6,
+        "obituary_memorial": 1,
+        "rights_affirming": 1,
+        "arts_culture": 4
+      },
+      "2023-05": {
+        "legislative_neutral": 12,
+        "unclassified": 7,
+        "culture_war": 4,
+        "international": 2,
+        "rights_affirming": 5,
+        "human_interest": 2,
+        "medical_skepticism": 2,
+        "arts_culture": 1
+      },
+      "2023-06": {
+        "arts_culture": 9,
+        "rights_affirming": 11,
+        "unclassified": 13,
+        "legislative_neutral": 16,
+        "human_interest": 5,
+        "medical_skepticism": 3,
+        "culture_war": 5,
+        "violence_safety": 1
+      },
+      "2023-07": {
+        "legislative_neutral": 12,
+        "rights_affirming": 4,
+        "culture_war": 5,
+        "medical_skepticism": 2,
+        "unclassified": 7,
+        "arts_culture": 2
+      },
+      "2023-08": {
+        "legislative_neutral": 14,
+        "culture_war": 1,
+        "arts_culture": 3,
+        "medical_skepticism": 5,
+        "human_interest": 4,
+        "unclassified": 5,
+        "rights_affirming": 1
+      },
+      "2023-09": {
+        "arts_culture": 2,
+        "legislative_neutral": 6,
+        "unclassified": 3,
+        "human_interest": 2,
+        "culture_war": 2,
+        "rights_affirming": 3,
+        "violence_safety": 1
+      },
+      "2023-10": {
+        "human_interest": 3,
+        "medical_skepticism": 1,
+        "legislative_neutral": 4,
+        "rights_affirming": 4,
+        "arts_culture": 1,
+        "unclassified": 2,
+        "culture_war": 1
+      },
+      "2023-11": {
+        "legislative_neutral": 3,
+        "arts_culture": 2,
+        "unclassified": 3,
+        "culture_war": 2,
+        "violence_safety": 2,
+        "human_interest": 1,
+        "rights_affirming": 1
+      },
+      "2023-12": {
+        "medical_skepticism": 1,
+        "legislative_neutral": 10,
+        "arts_culture": 1,
+        "unclassified": 4,
+        "culture_war": 1,
+        "obituary_memorial": 1,
+        "violence_safety": 1,
+        "human_interest": 1,
+        "rights_affirming": 1
+      },
+      "2024-01": {
+        "legislative_neutral": 6,
+        "unclassified": 6,
+        "arts_culture": 2
+      },
+      "2024-02": {
+        "unclassified": 13,
+        "medical_skepticism": 2,
+        "culture_war": 5,
+        "legislative_neutral": 4,
+        "arts_culture": 2,
+        "human_interest": 4,
+        "rights_affirming": 1,
+        "obituary_memorial": 2,
+        "violence_safety": 1
+      },
+      "2024-03": {
+        "culture_war": 6,
+        "medical_skepticism": 1,
+        "unclassified": 1,
+        "legislative_neutral": 2,
+        "arts_culture": 2,
+        "international": 1,
+        "human_interest": 1
+      },
+      "2024-04": {
+        "arts_culture": 5,
+        "violence_safety": 4,
+        "culture_war": 2,
+        "medical_skepticism": 4,
+        "unclassified": 5,
+        "legislative_neutral": 5,
+        "rights_affirming": 2,
+        "international": 1
+      },
+      "2024-05": {
+        "legislative_neutral": 7,
+        "rights_affirming": 2,
+        "arts_culture": 3,
+        "medical_skepticism": 2,
+        "violence_safety": 1,
+        "culture_war": 1,
+        "unclassified": 1,
+        "human_interest": 1
+      },
+      "2024-06": {
+        "arts_culture": 4,
+        "rights_affirming": 2,
+        "legislative_neutral": 11,
+        "medical_skepticism": 2,
+        "human_interest": 2,
+        "obituary_memorial": 1,
+        "culture_war": 3,
+        "unclassified": 4
+      },
+      "2024-07": {
+        "unclassified": 3,
+        "legislative_neutral": 6,
+        "rights_affirming": 1,
+        "medical_skepticism": 1,
+        "arts_culture": 2,
+        "human_interest": 2,
+        "culture_war": 1
+      },
+      "2024-08": {
+        "legislative_neutral": 9,
+        "arts_culture": 4,
+        "rights_affirming": 3,
+        "medical_skepticism": 2,
+        "unclassified": 3
+      },
+      "2024-09": {
+        "medical_skepticism": 1,
+        "arts_culture": 4,
+        "rights_affirming": 1,
+        "legislative_neutral": 3,
+        "human_interest": 5,
+        "unclassified": 2
+      },
+      "2024-10": {
+        "violence_safety": 3,
+        "arts_culture": 2,
+        "legislative_neutral": 9,
+        "medical_skepticism": 4,
+        "unclassified": 4,
+        "rights_affirming": 2,
+        "human_interest": 1
+      },
+      "2024-11": {
+        "rights_affirming": 3,
+        "unclassified": 2,
+        "legislative_neutral": 12,
+        "culture_war": 6,
+        "arts_culture": 3,
+        "medical_skepticism": 1
+      },
+      "2024-12": {
+        "culture_war": 3,
+        "medical_skepticism": 7,
+        "legislative_neutral": 18,
+        "human_interest": 2,
+        "unclassified": 3,
+        "rights_affirming": 1,
+        "violence_safety": 1
+      },
+      "2025-01": {
+        "human_interest": 3,
+        "arts_culture": 2,
+        "legislative_neutral": 14,
+        "rights_affirming": 3,
+        "unclassified": 4,
+        "medical_skepticism": 1
+      },
+      "2025-02": {
+        "violence_safety": 2,
+        "human_interest": 2,
+        "legislative_neutral": 22,
+        "medical_skepticism": 4,
+        "culture_war": 6,
+        "rights_affirming": 9,
+        "unclassified": 6,
+        "international": 1
+      },
+      "2025-03": {
+        "legislative_neutral": 18,
+        "international": 1,
+        "medical_skepticism": 3,
+        "rights_affirming": 1,
+        "violence_safety": 4,
+        "unclassified": 3,
+        "human_interest": 2,
+        "culture_war": 2
+      },
+      "2025-04": {
+        "legislative_neutral": 15,
+        "medical_skepticism": 1,
+        "arts_culture": 3,
+        "violence_safety": 1,
+        "culture_war": 4,
+        "unclassified": 5,
+        "human_interest": 3
+      },
+      "2025-05": {
+        "legislative_neutral": 10,
+        "medical_skepticism": 1,
+        "violence_safety": 2,
+        "culture_war": 5,
+        "unclassified": 2,
+        "rights_affirming": 3,
+        "human_interest": 1
+      },
+      "2025-06": {
+        "legislative_neutral": 23,
+        "medical_skepticism": 8,
+        "culture_war": 4,
+        "arts_culture": 1,
+        "rights_affirming": 9,
+        "unclassified": 3,
+        "human_interest": 2,
+        "international": 1,
+        "violence_safety": 1
+      },
+      "2025-07": {
+        "medical_skepticism": 3,
+        "culture_war": 3,
+        "legislative_neutral": 8,
+        "arts_culture": 4,
+        "human_interest": 1
+      },
+      "2025-08": {
+        "legislative_neutral": 3,
+        "human_interest": 2,
+        "medical_skepticism": 2,
+        "rights_affirming": 1,
+        "unclassified": 1,
+        "culture_war": 1,
+        "violence_safety": 2
+      },
+      "2025-09": {
+        "legislative_neutral": 7,
+        "rights_affirming": 2,
+        "violence_safety": 1,
+        "human_interest": 3,
+        "unclassified": 1,
+        "obituary_memorial": 1
+      },
+      "2025-10": {
+        "arts_culture": 2,
+        "legislative_neutral": 10,
+        "human_interest": 2,
+        "medical_skepticism": 3,
+        "culture_war": 1,
+        "obituary_memorial": 1,
+        "unclassified": 1,
+        "rights_affirming": 1
+      },
+      "2025-11": {
+        "arts_culture": 2,
+        "legislative_neutral": 11,
+        "unclassified": 1,
+        "rights_affirming": 1,
+        "medical_skepticism": 1
+      },
+      "2025-12": {
+        "unclassified": 3,
+        "legislative_neutral": 8,
+        "obituary_memorial": 1
+      },
+      "2026-01": {
+        "human_interest": 1,
+        "unclassified": 2,
+        "culture_war": 6,
+        "legislative_neutral": 11
+      },
+      "2026-02": {
+        "unclassified": 1,
+        "legislative_neutral": 10,
+        "human_interest": 2,
+        "medical_skepticism": 3,
+        "rights_affirming": 2
+      },
+      "2026-03": {
+        "medical_skepticism": 1,
+        "legislative_neutral": 10,
+        "unclassified": 1,
+        "obituary_memorial": 1,
+        "rights_affirming": 2,
+        "arts_culture": 2,
+        "culture_war": 5
+      },
+      "2026-04": {
+        "legislative_neutral": 4
+      }
+    }
+  },
+  "placement_analysis": {
+    "overall_placement": {
+      "interior": 1722,
+      "online_only": 1023,
+      "prominent": 193,
+      "section_front": 159,
+      "front_page": 144,
+      "unknown": 1
+    },
+    "placement_by_framing": {
+      "human_interest": {
+        "interior": 151,
+        "online_only": 108,
+        "section_front": 25,
+        "prominent": 25,
+        "front_page": 9
+      },
+      "rights_affirming": {
+        "interior": 241,
+        "section_front": 22,
+        "online_only": 150,
+        "prominent": 28,
+        "front_page": 9,
+        "unknown": 1
+      },
+      "legislative_neutral": {
+        "interior": 589,
+        "online_only": 294,
+        "front_page": 80,
+        "prominent": 37,
+        "section_front": 20
+      },
+      "unclassified": {
+        "interior": 290,
+        "online_only": 227,
+        "front_page": 8,
+        "prominent": 41,
+        "section_front": 45
+      },
+      "culture_war": {
+        "online_only": 76,
+        "interior": 116,
+        "section_front": 12,
+        "prominent": 11,
+        "front_page": 19
+      },
+      "arts_culture": {
+        "interior": 158,
+        "online_only": 66,
+        "prominent": 45,
+        "section_front": 29,
+        "front_page": 2
+      },
+      "violence_safety": {
+        "interior": 82,
+        "front_page": 5,
+        "online_only": 51,
+        "prominent": 4
+      },
+      "obituary_memorial": {
+        "interior": 20,
+        "front_page": 1,
+        "online_only": 4,
+        "section_front": 2
+      },
+      "international": {
+        "interior": 17,
+        "online_only": 8,
+        "section_front": 1
+      },
+      "medical_skepticism": {
+        "interior": 58,
+        "section_front": 3,
+        "online_only": 39,
+        "front_page": 11,
+        "prominent": 2
+      }
+    },
+    "front_page_rates_by_framing": {
+      "human_interest": {
+        "total_articles": 318,
+        "front_page": 9,
+        "front_page_rate": 0.0283,
+        "prominent_placement": 59,
+        "prominent_rate": 0.1855
+      },
+      "rights_affirming": {
+        "total_articles": 451,
+        "front_page": 9,
+        "front_page_rate": 0.02,
+        "prominent_placement": 59,
+        "prominent_rate": 0.1308
+      },
+      "legislative_neutral": {
+        "total_articles": 1020,
+        "front_page": 80,
+        "front_page_rate": 0.0784,
+        "prominent_placement": 137,
+        "prominent_rate": 0.1343
+      },
+      "unclassified": {
+        "total_articles": 611,
+        "front_page": 8,
+        "front_page_rate": 0.0131,
+        "prominent_placement": 94,
+        "prominent_rate": 0.1538
+      },
+      "culture_war": {
+        "total_articles": 234,
+        "front_page": 19,
+        "front_page_rate": 0.0812,
+        "prominent_placement": 42,
+        "prominent_rate": 0.1795
+      },
+      "arts_culture": {
+        "total_articles": 300,
+        "front_page": 2,
+        "front_page_rate": 0.0067,
+        "prominent_placement": 76,
+        "prominent_rate": 0.2533
+      },
+      "violence_safety": {
+        "total_articles": 142,
+        "front_page": 5,
+        "front_page_rate": 0.0352,
+        "prominent_placement": 9,
+        "prominent_rate": 0.0634
+      },
+      "obituary_memorial": {
+        "total_articles": 27,
+        "front_page": 1,
+        "front_page_rate": 0.037,
+        "prominent_placement": 3,
+        "prominent_rate": 0.1111
+      },
+      "international": {
+        "total_articles": 26,
+        "front_page": 0,
+        "front_page_rate": 0.0,
+        "prominent_placement": 1,
+        "prominent_rate": 0.0385
+      },
+      "medical_skepticism": {
+        "total_articles": 113,
+        "front_page": 11,
+        "front_page_rate": 0.0973,
+        "prominent_placement": 16,
+        "prominent_rate": 0.1416
+      }
+    }
+  },
+  "byline_analysis": {
+    "top_reporters": [
+      [
+        "No byline",
+        179
+      ],
+      [
+        "The Editorial Board",
+        60
+      ],
+      [
+        "Jennifer Finney Boylan",
+        52
+      ],
+      [
+        "Liam Stack",
+        49
+      ],
+      [
+        "Adam Liptak",
+        41
+      ],
+      [
+        "Amy Harmon",
+        38
+      ],
+      [
+        "Azeen Ghorayshi",
+        27
+      ],
+      [
+        "The New York Times",
+        25
+      ],
+      [
+        "Erik Piepenburg",
+        20
+      ],
+      [
+        "Maya Salam",
+        17
+      ],
+      [
+        "Mitch Smith",
+        16
+      ],
+      [
+        "Frank Bruni",
+        16
+      ],
+      [
+        "J. David Goodman",
+        16
+      ],
+      [
+        "Christine Hauser",
+        15
+      ],
+      [
+        "Dave Philipps",
+        14
+      ],
+      [
+        "Maggie Astor",
+        14
+      ],
+      [
+        "Jacob Bernstein",
+        13
+      ],
+      [
+        "Sheryl Gay Stolberg",
+        13
+      ],
+      [
+        "Charles M. Blow",
+        13
+      ],
+      [
+        "Helene Cooper",
+        13
+      ]
+    ],
+    "reporter_profiles": {
+      "No byline": {
+        "article_count": 179,
+        "framing_distribution": {
+          "rights_affirming": 27,
+          "human_interest": 16,
+          "unclassified": 54,
+          "violence_safety": 5,
+          "legislative_neutral": 43,
+          "arts_culture": 12,
+          "culture_war": 9,
+          "medical_skepticism": 10,
+          "international": 3
+        },
+        "placement_distribution": {
+          "interior": 114,
+          "online_only": 57,
+          "prominent": 8
+        }
+      },
+      "The Editorial Board": {
+        "article_count": 60,
+        "framing_distribution": {
+          "legislative_neutral": 34,
+          "rights_affirming": 13,
+          "unclassified": 6,
+          "culture_war": 3,
+          "violence_safety": 3,
+          "human_interest": 1
+        },
+        "placement_distribution": {
+          "interior": 58,
+          "online_only": 2
+        }
+      },
+      "Jennifer Finney Boylan": {
+        "article_count": 52,
+        "framing_distribution": {
+          "human_interest": 10,
+          "unclassified": 19,
+          "violence_safety": 2,
+          "legislative_neutral": 4,
+          "arts_culture": 5,
+          "rights_affirming": 10,
+          "international": 1,
+          "culture_war": 1
+        },
+        "placement_distribution": {
+          "interior": 28,
+          "prominent": 2,
+          "online_only": 22
+        }
+      },
+      "Liam Stack": {
+        "article_count": 49,
+        "framing_distribution": {
+          "arts_culture": 3,
+          "legislative_neutral": 16,
+          "violence_safety": 6,
+          "human_interest": 2,
+          "culture_war": 4,
+          "rights_affirming": 7,
+          "unclassified": 7,
+          "international": 1,
+          "obituary_memorial": 3
+        },
+        "placement_distribution": {
+          "online_only": 15,
+          "interior": 30,
+          "prominent": 3,
+          "front_page": 1
+        }
+      },
+      "Adam Liptak": {
+        "article_count": 41,
+        "framing_distribution": {
+          "legislative_neutral": 37,
+          "human_interest": 3,
+          "culture_war": 1
+        },
+        "placement_distribution": {
+          "interior": 23,
+          "front_page": 11,
+          "online_only": 7
+        }
+      },
+      "Amy Harmon": {
+        "article_count": 38,
+        "framing_distribution": {
+          "human_interest": 2,
+          "unclassified": 1,
+          "rights_affirming": 2,
+          "legislative_neutral": 27,
+          "medical_skepticism": 2,
+          "culture_war": 3,
+          "violence_safety": 1
+        },
+        "placement_distribution": {
+          "front_page": 4,
+          "prominent": 1,
+          "interior": 18,
+          "online_only": 15
+        }
+      },
+      "Azeen Ghorayshi": {
+        "article_count": 27,
+        "framing_distribution": {
+          "medical_skepticism": 22,
+          "culture_war": 1,
+          "legislative_neutral": 2,
+          "unclassified": 2
+        },
+        "placement_distribution": {
+          "section_front": 1,
+          "interior": 15,
+          "front_page": 5,
+          "online_only": 5,
+          "prominent": 1
+        }
+      },
+      "The New York Times": {
+        "article_count": 25,
+        "framing_distribution": {
+          "unclassified": 9,
+          "human_interest": 3,
+          "culture_war": 1,
+          "rights_affirming": 2,
+          "legislative_neutral": 9,
+          "arts_culture": 1
+        },
+        "placement_distribution": {
+          "interior": 1,
+          "online_only": 23,
+          "prominent": 1
+        }
+      },
+      "Erik Piepenburg": {
+        "article_count": 20,
+        "framing_distribution": {
+          "arts_culture": 7,
+          "rights_affirming": 6,
+          "unclassified": 5,
+          "human_interest": 2
+        },
+        "placement_distribution": {
+          "interior": 8,
+          "online_only": 6,
+          "section_front": 4,
+          "prominent": 2
+        }
+      },
+      "Maya Salam": {
+        "article_count": 17,
+        "framing_distribution": {
+          "human_interest": 3,
+          "arts_culture": 2,
+          "legislative_neutral": 4,
+          "unclassified": 5,
+          "rights_affirming": 3
+        },
+        "placement_distribution": {
+          "online_only": 7,
+          "prominent": 2,
+          "interior": 7,
+          "section_front": 1
+        }
+      },
+      "Mitch Smith": {
+        "article_count": 16,
+        "framing_distribution": {
+          "rights_affirming": 1,
+          "legislative_neutral": 11,
+          "culture_war": 1,
+          "medical_skepticism": 3
+        },
+        "placement_distribution": {
+          "interior": 11,
+          "online_only": 4,
+          "front_page": 1
+        }
+      },
+      "Frank Bruni": {
+        "article_count": 16,
+        "framing_distribution": {
+          "rights_affirming": 2,
+          "unclassified": 7,
+          "legislative_neutral": 4,
+          "culture_war": 1,
+          "violence_safety": 1,
+          "obituary_memorial": 1
+        },
+        "placement_distribution": {
+          "prominent": 9,
+          "interior": 4,
+          "online_only": 2,
+          "section_front": 1
+        }
+      },
+      "J. David Goodman": {
+        "article_count": 16,
+        "framing_distribution": {
+          "legislative_neutral": 5,
+          "rights_affirming": 1,
+          "human_interest": 3,
+          "medical_skepticism": 1,
+          "culture_war": 5,
+          "unclassified": 1
+        },
+        "placement_distribution": {
+          "interior": 13,
+          "online_only": 3
+        }
+      },
+      "Christine Hauser": {
+        "article_count": 15,
+        "framing_distribution": {
+          "rights_affirming": 2,
+          "unclassified": 3,
+          "legislative_neutral": 6,
+          "violence_safety": 3,
+          "human_interest": 1
+        },
+        "placement_distribution": {
+          "online_only": 13,
+          "interior": 2
+        }
+      },
+      "Dave Philipps": {
+        "article_count": 14,
+        "framing_distribution": {
+          "legislative_neutral": 13,
+          "violence_safety": 1
+        },
+        "placement_distribution": {
+          "interior": 10,
+          "front_page": 2,
+          "online_only": 2
+        }
+      },
+      "Maggie Astor": {
+        "article_count": 14,
+        "framing_distribution": {
+          "legislative_neutral": 6,
+          "human_interest": 2,
+          "violence_safety": 4,
+          "rights_affirming": 1,
+          "unclassified": 1
+        },
+        "placement_distribution": {
+          "online_only": 5,
+          "interior": 8,
+          "front_page": 1
+        }
+      },
+      "Jacob Bernstein": {
+        "article_count": 13,
+        "framing_distribution": {
+          "human_interest": 5,
+          "rights_affirming": 2,
+          "arts_culture": 5,
+          "unclassified": 1
+        },
+        "placement_distribution": {
+          "section_front": 7,
+          "interior": 5,
+          "online_only": 1
+        }
+      },
+      "Sheryl Gay Stolberg": {
+        "article_count": 13,
+        "framing_distribution": {
+          "rights_affirming": 4,
+          "legislative_neutral": 4,
+          "culture_war": 2,
+          "unclassified": 2,
+          "human_interest": 1
+        },
+        "placement_distribution": {
+          "interior": 7,
+          "front_page": 1,
+          "online_only": 5
+        }
+      },
+      "Charles M. Blow": {
+        "article_count": 13,
+        "framing_distribution": {
+          "legislative_neutral": 2,
+          "unclassified": 7,
+          "rights_affirming": 3,
+          "human_interest": 1
+        },
+        "placement_distribution": {
+          "interior": 10,
+          "online_only": 3
+        }
+      },
+      "Helene Cooper": {
+        "article_count": 13,
+        "framing_distribution": {
+          "legislative_neutral": 12,
+          "medical_skepticism": 1
+        },
+        "placement_distribution": {
+          "interior": 10,
+          "prominent": 1,
+          "online_only": 2
+        }
+      }
+    },
+    "total_unique_bylines": 1421,
+    "concentration": {
+      "top_5_share": 0.1175,
+      "top_10_share": 0.1567
+    }
+  },
+  "section_analysis": {
+    "section_distribution": {
+      "U.S.": 969,
+      "Opinion": 577,
+      "Arts": 238,
+      "World": 185,
+      "New York": 181,
+      "Movies": 116,
+      "Style": 116,
+      "Books": 99,
+      "Business Day": 79,
+      "Sports": 73,
+      "Health": 69,
+      "Magazine": 65,
+      "Theater": 63,
+      "Fashion & Style": 60,
+      "T Magazine": 41,
+      "Podcasts": 37,
+      "Travel": 32,
+      "Well": 29,
+      "The Learning Network": 20,
+      "Obituaries": 18,
+      "Briefing": 18,
+      "Multimedia/Photos": 16,
+      "The Upshot": 14,
+      "Times Insider": 14,
+      "Education": 13,
+      "Technology": 12,
+      "Blogs": 11,
+      "Science": 10,
+      "Food": 9,
+      "Corrections": 7,
+      "Crosswords & Games": 6,
+      "Today’s Paper": 6,
+      "Reader Center": 6,
+      "Real Estate": 5,
+      "Lens": 5,
+      "NYT Now": 4,
+      "Parenting": 4,
+      "Business": 4,
+      "Your Money": 3,
+      "Public Editor": 3,
+      "Giving": 1,
+      "Smarter Living": 1,
+      "At Home": 1,
+      "Climate": 1,
+      "Booming": 1
+    },
+    "section_by_framing": {
+      "Opinion": {
+        "human_interest": 48,
+        "rights_affirming": 89,
+        "unclassified": 145,
+        "legislative_neutral": 169,
+        "culture_war": 61,
+        "violence_safety": 22,
+        "medical_skepticism": 22,
+        "obituary_memorial": 2,
+        "arts_culture": 12,
+        "international": 7
+      },
+      "World": {
+        "legislative_neutral": 69,
+        "human_interest": 9,
+        "culture_war": 10,
+        "unclassified": 20,
+        "violence_safety": 22,
+        "medical_skepticism": 7,
+        "rights_affirming": 36,
+        "international": 6,
+        "arts_culture": 4,
+        "obituary_memorial": 2
+      },
+      "New York": {
+        "unclassified": 33,
+        "violence_safety": 15,
+        "legislative_neutral": 54,
+        "rights_affirming": 39,
+        "human_interest": 14,
+        "culture_war": 8,
+        "obituary_memorial": 6,
+        "arts_culture": 7,
+        "medical_skepticism": 5
+      },
+      "Business Day": {
+        "human_interest": 7,
+        "legislative_neutral": 17,
+        "rights_affirming": 10,
+        "unclassified": 24,
+        "arts_culture": 6,
+        "medical_skepticism": 1,
+        "culture_war": 13,
+        "violence_safety": 1
+      },
+      "U.S.": {
+        "rights_affirming": 117,
+        "unclassified": 69,
+        "legislative_neutral": 544,
+        "violence_safety": 59,
+        "human_interest": 43,
+        "arts_culture": 9,
+        "culture_war": 85,
+        "international": 2,
+        "medical_skepticism": 36,
+        "obituary_memorial": 5
+      },
+      "Magazine": {
+        "human_interest": 17,
+        "unclassified": 23,
+        "culture_war": 6,
+        "legislative_neutral": 11,
+        "rights_affirming": 5,
+        "arts_culture": 1,
+        "violence_safety": 1,
+        "obituary_memorial": 1
+      },
+      "Education": {
+        "legislative_neutral": 1,
+        "unclassified": 5,
+        "rights_affirming": 2,
+        "human_interest": 4,
+        "culture_war": 1
+      },
+      "Fashion & Style": {
+        "human_interest": 14,
+        "rights_affirming": 15,
+        "unclassified": 17,
+        "arts_culture": 7,
+        "obituary_memorial": 1,
+        "legislative_neutral": 3,
+        "culture_war": 2,
+        "violence_safety": 1
+      },
+      "Movies": {
+        "arts_culture": 52,
+        "human_interest": 26,
+        "violence_safety": 2,
+        "culture_war": 4,
+        "rights_affirming": 9,
+        "legislative_neutral": 7,
+        "unclassified": 13,
+        "medical_skepticism": 1,
+        "international": 2
+      },
+      "Blogs": {
+        "legislative_neutral": 2,
+        "unclassified": 5,
+        "human_interest": 1,
+        "violence_safety": 2,
+        "rights_affirming": 1
+      },
+      "Sports": {
+        "unclassified": 13,
+        "rights_affirming": 9,
+        "culture_war": 17,
+        "human_interest": 3,
+        "legislative_neutral": 27,
+        "arts_culture": 1,
+        "violence_safety": 1,
+        "international": 2
+      },
+      "Arts": {
+        "arts_culture": 72,
+        "unclassified": 61,
+        "human_interest": 43,
+        "rights_affirming": 33,
+        "legislative_neutral": 19,
+        "obituary_memorial": 3,
+        "culture_war": 4,
+        "international": 2,
+        "violence_safety": 1
+      },
+      "T Magazine": {
+        "arts_culture": 20,
+        "unclassified": 8,
+        "human_interest": 5,
+        "culture_war": 1,
+        "legislative_neutral": 2,
+        "rights_affirming": 5
+      },
+      "Style": {
+        "unclassified": 53,
+        "arts_culture": 18,
+        "rights_affirming": 18,
+        "culture_war": 5,
+        "legislative_neutral": 5,
+        "human_interest": 16,
+        "international": 1
+      },
+      "The Upshot": {
+        "unclassified": 5,
+        "legislative_neutral": 6,
+        "rights_affirming": 2,
+        "human_interest": 1
+      },
+      "Technology": {
+        "legislative_neutral": 5,
+        "rights_affirming": 1,
+        "arts_culture": 2,
+        "human_interest": 1,
+        "culture_war": 1,
+        "obituary_memorial": 2
+      },
+      "Travel": {
+        "unclassified": 10,
+        "legislative_neutral": 5,
+        "rights_affirming": 10,
+        "arts_culture": 6,
+        "human_interest": 1
+      },
+      "Times Insider": {
+        "unclassified": 5,
+        "human_interest": 3,
+        "culture_war": 1,
+        "rights_affirming": 1,
+        "violence_safety": 1,
+        "legislative_neutral": 3
+      },
+      "Theater": {
+        "unclassified": 8,
+        "rights_affirming": 4,
+        "arts_culture": 35,
+        "human_interest": 6,
+        "legislative_neutral": 5,
+        "culture_war": 4,
+        "international": 1
+      },
+      "Multimedia/Photos": {
+        "violence_safety": 2,
+        "unclassified": 6,
+        "rights_affirming": 4,
+        "human_interest": 1,
+        "arts_culture": 2,
+        "legislative_neutral": 1
+      },
+      "Science": {
+        "obituary_memorial": 1,
+        "unclassified": 1,
+        "rights_affirming": 1,
+        "legislative_neutral": 3,
+        "culture_war": 1,
+        "medical_skepticism": 3
+      },
+      "Health": {
+        "human_interest": 3,
+        "legislative_neutral": 14,
+        "medical_skepticism": 25,
+        "culture_war": 3,
+        "rights_affirming": 9,
+        "unclassified": 12,
+        "violence_safety": 3
+      },
+      "Books": {
+        "human_interest": 28,
+        "arts_culture": 40,
+        "violence_safety": 4,
+        "unclassified": 11,
+        "rights_affirming": 6,
+        "international": 1,
+        "legislative_neutral": 8,
+        "culture_war": 1
+      },
+      "Giving": {
+        "unclassified": 1
+      },
+      "Real Estate": {
+        "arts_culture": 1,
+        "rights_affirming": 1,
+        "unclassified": 2,
+        "legislative_neutral": 1
+      },
+      "NYT Now": {
+        "culture_war": 1,
+        "rights_affirming": 1,
+        "unclassified": 2
+      },
+      "Crosswords & Games": {
+        "unclassified": 6
+      },
+      "Well": {
+        "unclassified": 10,
+        "human_interest": 7,
+        "medical_skepticism": 3,
+        "violence_safety": 2,
+        "legislative_neutral": 3,
+        "arts_culture": 1,
+        "rights_affirming": 3
+      },
+      "Your Money": {
+        "legislative_neutral": 3
+      },
+      "The Learning Network": {
+        "unclassified": 8,
+        "legislative_neutral": 6,
+        "culture_war": 2,
+        "rights_affirming": 1,
+        "arts_culture": 2,
+        "human_interest": 1
+      },
+      "Public Editor": {
+        "unclassified": 1,
+        "human_interest": 1,
+        "legislative_neutral": 1
+      },
+      "Smarter Living": {
+        "human_interest": 1
+      },
+      "Podcasts": {
+        "rights_affirming": 6,
+        "legislative_neutral": 10,
+        "violence_safety": 1,
+        "unclassified": 9,
+        "human_interest": 5,
+        "medical_skepticism": 6
+      },
+      "Today’s Paper": {
+        "legislative_neutral": 2,
+        "violence_safety": 1,
+        "culture_war": 1,
+        "unclassified": 2
+      },
+      "Obituaries": {
+        "legislative_neutral": 4,
+        "human_interest": 3,
+        "obituary_memorial": 4,
+        "arts_culture": 2,
+        "unclassified": 2,
+        "rights_affirming": 2,
+        "culture_war": 1
+      },
+      "Reader Center": {
+        "unclassified": 2,
+        "rights_affirming": 1,
+        "human_interest": 3
+      },
+      "Lens": {
+        "rights_affirming": 2,
+        "violence_safety": 1,
+        "unclassified": 2
+      },
+      "Briefing": {
+        "unclassified": 2,
+        "rights_affirming": 3,
+        "international": 2,
+        "medical_skepticism": 4,
+        "legislative_neutral": 6,
+        "culture_war": 1
+      },
+      "Corrections": {
+        "unclassified": 7
+      },
+      "Parenting": {
+        "human_interest": 2,
+        "legislative_neutral": 1,
+        "unclassified": 1
+      },
+      "At Home": {
+        "rights_affirming": 1
+      },
+      "Climate": {
+        "legislative_neutral": 1
+      },
+      "Food": {
+        "unclassified": 6,
+        "rights_affirming": 2,
+        "human_interest": 1
+      },
+      "Business": {
+        "legislative_neutral": 2,
+        "rights_affirming": 2
+      },
+      "Booming": {
+        "unclassified": 1
+      }
+    }
+  },
+  "temporal_analysis": {
+    "monthly_volume": {
+      "2014-01": 8,
+      "2014-02": 11,
+      "2014-03": 9,
+      "2014-04": 9,
+      "2014-05": 16,
+      "2014-06": 13,
+      "2014-07": 14,
+      "2014-08": 5,
+      "2014-09": 11,
+      "2014-10": 6,
+      "2014-11": 10,
+      "2014-12": 14,
+      "2015-01": 14,
+      "2015-02": 15,
+      "2015-03": 12,
+      "2015-04": 17,
+      "2015-05": 21,
+      "2015-06": 40,
+      "2015-07": 32,
+      "2015-08": 21,
+      "2015-09": 23,
+      "2015-10": 20,
+      "2015-11": 37,
+      "2015-12": 23,
+      "2016-01": 11,
+      "2016-02": 12,
+      "2016-03": 31,
+      "2016-04": 58,
+      "2016-05": 63,
+      "2016-06": 53,
+      "2016-07": 22,
+      "2016-08": 16,
+      "2016-09": 22,
+      "2016-10": 15,
+      "2016-11": 14,
+      "2016-12": 18,
+      "2017-01": 28,
+      "2017-02": 43,
+      "2017-03": 27,
+      "2017-04": 25,
+      "2017-05": 21,
+      "2017-06": 28,
+      "2017-07": 37,
+      "2017-08": 25,
+      "2017-09": 13,
+      "2017-10": 26,
+      "2017-11": 27,
+      "2017-12": 15,
+      "2018-01": 12,
+      "2018-02": 18,
+      "2018-03": 16,
+      "2018-04": 13,
+      "2018-05": 14,
+      "2018-06": 23,
+      "2018-07": 22,
+      "2018-08": 13,
+      "2018-09": 12,
+      "2018-10": 35,
+      "2018-11": 15,
+      "2018-12": 6,
+      "2019-01": 17,
+      "2019-02": 15,
+      "2019-03": 17,
+      "2019-04": 20,
+      "2019-05": 32,
+      "2019-06": 51,
+      "2019-07": 14,
+      "2019-08": 13,
+      "2019-09": 18,
+      "2019-10": 19,
+      "2019-11": 18,
+      "2019-12": 12,
+      "2020-01": 9,
+      "2020-02": 10,
+      "2020-03": 9,
+      "2020-04": 10,
+      "2020-05": 8,
+      "2020-06": 55,
+      "2020-07": 15,
+      "2020-08": 14,
+      "2020-09": 18,
+      "2020-10": 15,
+      "2020-11": 13,
+      "2020-12": 11,
+      "2021-01": 18,
+      "2021-02": 15,
+      "2021-03": 21,
+      "2021-04": 31,
+      "2021-05": 23,
+      "2021-06": 53,
+      "2021-07": 13,
+      "2021-08": 15,
+      "2021-09": 25,
+      "2021-10": 28,
+      "2021-11": 12,
+      "2021-12": 10,
+      "2022-01": 13,
+      "2022-02": 15,
+      "2022-03": 37,
+      "2022-04": 38,
+      "2022-05": 19,
+      "2022-06": 33,
+      "2022-07": 21,
+      "2022-08": 16,
+      "2022-09": 18,
+      "2022-10": 15,
+      "2022-11": 29,
+      "2022-12": 22,
+      "2023-01": 28,
+      "2023-02": 28,
+      "2023-03": 24,
+      "2023-04": 49,
+      "2023-05": 35,
+      "2023-06": 63,
+      "2023-07": 32,
+      "2023-08": 33,
+      "2023-09": 19,
+      "2023-10": 16,
+      "2023-11": 14,
+      "2023-12": 21,
+      "2024-01": 14,
+      "2024-02": 34,
+      "2024-03": 14,
+      "2024-04": 28,
+      "2024-05": 18,
+      "2024-06": 29,
+      "2024-07": 16,
+      "2024-08": 21,
+      "2024-09": 16,
+      "2024-10": 25,
+      "2024-11": 27,
+      "2024-12": 35,
+      "2025-01": 27,
+      "2025-02": 52,
+      "2025-03": 34,
+      "2025-04": 32,
+      "2025-05": 24,
+      "2025-06": 52,
+      "2025-07": 19,
+      "2025-08": 12,
+      "2025-09": 15,
+      "2025-10": 21,
+      "2025-11": 16,
+      "2025-12": 12,
+      "2026-01": 20,
+      "2026-02": 18,
+      "2026-03": 22,
+      "2026-04": 4
+    },
+    "day_of_week_distribution": {
+      "Tuesday": 73,
+      "Thursday": 72,
+      "Wednesday": 72,
+      "Friday": 68,
+      "Monday": 41,
+      "Saturday": 30,
+      "Sunday": 23
+    },
+    "material_type_over_time": {
+      "2014-01": {
+        "News": 6,
+        "Op-Ed": 1,
+        "Video": 1
+      },
+      "2014-02": {
+        "News": 5,
+        "Slideshow": 1,
+        "Op-Ed": 3,
+        "Review": 2
+      },
+      "2014-03": {
+        "Letter": 1,
+        "News": 5,
+        "Video": 3
+      },
+      "2014-04": {
+        "News": 4,
+        "Op-Ed": 1,
+        "Brief": 1,
+        "Editorial": 1,
+        "Review": 1,
+        "Video": 1
+      },
+      "2014-05": {
+        "News": 10,
+        "Editorial": 2,
+        "Op-Ed": 3,
+        "Interview": 1
+      },
+      "2014-06": {
+        "News": 7,
+        "Letter": 1,
+        "Slideshow": 1,
+        "Editorial": 1,
+        "Op-Ed": 2,
+        "Schedule": 1
+      },
+      "2014-07": {
+        "Letter": 1,
+        "Editorial": 2,
+        "Brief": 1,
+        "News": 7,
+        "Op-Ed": 1,
+        "Video": 1,
+        "Slideshow": 1
+      },
+      "2014-08": {
+        "Review": 1,
+        "News": 4
+      },
+      "2014-09": {
+        "Letter": 1,
+        "Slideshow": 1,
+        "News": 8,
+        "Review": 1
+      },
+      "2014-10": {
+        "News": 4,
+        "Obituary (Obit)": 1,
+        "Video": 1
+      },
+      "2014-11": {
+        "News": 7,
+        "Editorial": 1,
+        "Review": 1,
+        "Obituary (Obit)": 1
+      },
+      "2014-12": {
+        "News": 9,
+        "Review": 1,
+        "Editorial": 2,
+        "Video": 2
+      },
+      "2015-01": {
+        "Op-Ed": 1,
+        "Letter": 1,
+        "News": 12
+      },
+      "2015-02": {
+        "News": 11,
+        "Op-Ed": 2,
+        "Review": 2
+      },
+      "2015-03": {
+        "News": 6,
+        "Review": 3,
+        "Biography": 1,
+        "Op-Ed": 1,
+        "Slideshow": 1
+      },
+      "2015-04": {
+        "News": 15,
+        "Editorial": 1,
+        "Brief": 1
+      },
+      "2015-05": {
+        "News": 9,
+        "Editorial": 5,
+        "Brief": 2,
+        "Unknown": 1,
+        "Review": 2,
+        "Interactive Feature": 1,
+        "Question": 1
+      },
+      "2015-06": {
+        "News": 23,
+        "Video": 5,
+        "Op-Ed": 6,
+        "Editorial": 2,
+        "Review": 2,
+        "Brief": 1,
+        "Letter": 1
+      },
+      "2015-07": {
+        "News": 16,
+        "Op-Ed": 2,
+        "Slideshow": 1,
+        "Editorial": 4,
+        "Review": 2,
+        "Interactive Feature": 4,
+        "Video": 1,
+        "Schedule": 1,
+        "Obituary (Obit)": 1
+      },
+      "2015-08": {
+        "News": 16,
+        "Op-Ed": 3,
+        "Schedule": 1,
+        "Letter": 1
+      },
+      "2015-09": {
+        "News": 17,
+        "Op-Ed": 1,
+        "Question": 2,
+        "Video": 1,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 1
+      },
+      "2015-10": {
+        "News": 13,
+        "Question": 1,
+        "Review": 2,
+        "Editorial": 1,
+        "Op-Ed": 3
+      },
+      "2015-11": {
+        "News": 25,
+        "Editorial": 3,
+        "Interactive Feature": 1,
+        "Video": 1,
+        "Letter": 2,
+        "Op-Ed": 2,
+        "Review": 2,
+        "Brief": 1
+      },
+      "2015-12": {
+        "News": 15,
+        "Brief": 1,
+        "Obituary (Obit)": 1,
+        "Editorial": 1,
+        "Video": 2,
+        "Interactive Feature": 1,
+        "Letter": 1,
+        "Op-Ed": 1
+      },
+      "2016-01": {
+        "Video": 1,
+        "Question": 1,
+        "Op-Ed": 1,
+        "News": 8
+      },
+      "2016-02": {
+        "News": 7,
+        "Brief": 1,
+        "Op-Ed": 1,
+        "Letter": 1,
+        "Review": 1,
+        "Editorial": 1
+      },
+      "2016-03": {
+        "News": 23,
+        "Slideshow": 2,
+        "Review": 2,
+        "Video": 1,
+        "Op-Ed": 1,
+        "Brief": 1,
+        "Editorial": 1
+      },
+      "2016-04": {
+        "News": 45,
+        "Op-Ed": 7,
+        "Editorial": 3,
+        "Interactive Feature": 1,
+        "Letter": 1,
+        "Video": 1
+      },
+      "2016-05": {
+        "News": 42,
+        "Op-Ed": 7,
+        "Video": 4,
+        "Editorial": 3,
+        "Schedule": 1,
+        "Letter": 2,
+        "Interactive Feature": 3,
+        "Review": 1
+      },
+      "2016-06": {
+        "News": 38,
+        "Review": 5,
+        "Op-Ed": 5,
+        "Editorial": 2,
+        "Schedule": 1,
+        "Slideshow": 2
+      },
+      "2016-07": {
+        "Editorial": 1,
+        "News": 16,
+        "Op-Ed": 2,
+        "Review": 1,
+        "Video": 1,
+        "Biography": 1
+      },
+      "2016-08": {
+        "News": 11,
+        "Letter": 2,
+        "Op-Ed": 1,
+        "Editorial": 1,
+        "Schedule": 1
+      },
+      "2016-09": {
+        "News": 17,
+        "Op-Ed": 2,
+        "Obituary (Obit)": 1,
+        "Editorial": 1,
+        "Slideshow": 1
+      },
+      "2016-10": {
+        "News": 12,
+        "Op-Ed": 2,
+        "Letter": 1
+      },
+      "2016-11": {
+        "Review": 1,
+        "News": 11,
+        "Op-Ed": 1,
+        "Interactive Feature": 1
+      },
+      "2016-12": {
+        "Op-Ed": 1,
+        "News": 12,
+        "Review": 2,
+        "Editorial": 2,
+        "Interactive Feature": 1
+      },
+      "2017-01": {
+        "News": 21,
+        "Editorial": 4,
+        "Letter": 2,
+        "Op-Ed": 1
+      },
+      "2017-02": {
+        "News": 26,
+        "Editorial": 2,
+        "Letter": 3,
+        "Review": 4,
+        "Op-Ed": 7,
+        "Slideshow": 1
+      },
+      "2017-03": {
+        "News": 22,
+        "Schedule": 1,
+        "Letter": 1,
+        "Op-Ed": 1,
+        "Interview": 1,
+        "Editorial": 1
+      },
+      "2017-04": {
+        "News": 15,
+        "Editorial": 2,
+        "Biography": 1,
+        "Op-Ed": 4,
+        "Unknown": 2,
+        "Slideshow": 1
+      },
+      "2017-05": {
+        "List": 1,
+        "News": 16,
+        "Op-Ed": 3,
+        "Review": 1
+      },
+      "2017-06": {
+        "News": 26,
+        "Video": 1,
+        "Editorial": 1
+      },
+      "2017-07": {
+        "Op-Ed": 8,
+        "News": 21,
+        "Interactive Feature": 2,
+        "Letter": 2,
+        "Video": 1,
+        "Editorial": 1,
+        "briefing": 2
+      },
+      "2017-08": {
+        "News": 20,
+        "Op-Ed": 2,
+        "Quote": 1,
+        "Editorial": 1,
+        "Interactive Feature": 1
+      },
+      "2017-09": {
+        "Op-Ed": 1,
+        "News": 10,
+        "Review": 2
+      },
+      "2017-10": {
+        "News": 23,
+        "Review": 1,
+        "Op-Ed": 1,
+        "Letter": 1
+      },
+      "2017-11": {
+        "Op-Ed": 6,
+        "News": 15,
+        "briefing": 2,
+        "Video": 1,
+        "Editorial": 1,
+        "Letter": 1,
+        "Obituary (Obit)": 1
+      },
+      "2017-12": {
+        "Op-Ed": 3,
+        "News": 7,
+        "Video": 1,
+        "Editorial": 1,
+        "Schedule": 1,
+        "Letter": 1,
+        "Obituary (Obit)": 1
+      },
+      "2018-01": {
+        "Op-Ed": 3,
+        "News": 7,
+        "Video": 2
+      },
+      "2018-02": {
+        "News": 10,
+        "Review": 1,
+        "Op-Ed": 4,
+        "Letter": 1,
+        "Video": 1,
+        "Editorial": 1
+      },
+      "2018-03": {
+        "Letter": 2,
+        "News": 7,
+        "Interactive Feature": 1,
+        "Review": 1,
+        "Op-Ed": 4,
+        "Editorial": 1
+      },
+      "2018-04": {
+        "News": 8,
+        "Op-Ed": 3,
+        "Slideshow": 1,
+        "Editorial": 1
+      },
+      "2018-05": {
+        "News": 11,
+        "Op-Ed": 1,
+        "Review": 1,
+        "Interview": 1
+      },
+      "2018-06": {
+        "News": 16,
+        "Obituary (Obit)": 1,
+        "Review": 1,
+        "briefing": 1,
+        "Interactive Feature": 1,
+        "Op-Ed": 3
+      },
+      "2018-07": {
+        "News": 17,
+        "Op-Ed": 3,
+        "Review": 2
+      },
+      "2018-08": {
+        "News": 13
+      },
+      "2018-09": {
+        "News": 9,
+        "Op-Ed": 1,
+        "Obituary (Obit)": 1,
+        "Review": 1
+      },
+      "2018-10": {
+        "Interview": 1,
+        "News": 19,
+        "Op-Ed": 6,
+        "briefing": 2,
+        "Letter": 2,
+        "Editorial": 1,
+        "Review": 3,
+        "Interactive Feature": 1
+      },
+      "2018-11": {
+        "News": 7,
+        "List": 1,
+        "Interactive Feature": 1,
+        "Review": 2,
+        "Op-Ed": 3,
+        "Letter": 1
+      },
+      "2018-12": {
+        "Op-Ed": 2,
+        "News": 3,
+        "Obituary (Obit)": 1
+      },
+      "2019-01": {
+        "News": 12,
+        "Op-Ed": 3,
+        "Editorial": 1,
+        "Obituary (Obit)": 1
+      },
+      "2019-02": {
+        "News": 11,
+        "Op-Ed": 2,
+        "Obituary (Obit)": 2
+      },
+      "2019-03": {
+        "News": 13,
+        "Op-Ed": 1,
+        "Review": 1,
+        "Interactive Feature": 1,
+        "briefing": 1
+      },
+      "2019-04": {
+        "Op-Ed": 4,
+        "News": 11,
+        "Review": 1,
+        "Obituary (Obit)": 1,
+        "Letter": 1,
+        "Editorial": 1,
+        "Slideshow": 1
+      },
+      "2019-05": {
+        "News": 24,
+        "Op-Ed": 3,
+        "Review": 3,
+        "Interactive Feature": 2
+      },
+      "2019-06": {
+        "News": 43,
+        "Op-Ed": 3,
+        "Letter": 1,
+        "briefing": 2,
+        "Obituary (Obit)": 1,
+        "Interactive Feature": 1
+      },
+      "2019-07": {
+        "Interactive Feature": 1,
+        "News": 9,
+        "Op-Ed": 3,
+        "Letter": 1
+      },
+      "2019-08": {
+        "News": 11,
+        "Review": 1,
+        "Op-Ed": 1
+      },
+      "2019-09": {
+        "News": 14,
+        "Op-Ed": 2,
+        "Review": 1,
+        "Quote": 1
+      },
+      "2019-10": {
+        "News": 16,
+        "Op-Ed": 2,
+        "Letter": 1
+      },
+      "2019-11": {
+        "News": 14,
+        "Review": 1,
+        "Correction": 1,
+        "Op-Ed": 1,
+        "Letter": 1
+      },
+      "2019-12": {
+        "News": 7,
+        "Op-Ed": 5
+      },
+      "2020-01": {
+        "News": 8,
+        "Op-Ed": 1
+      },
+      "2020-02": {
+        "Review": 3,
+        "News": 5,
+        "Op-Ed": 1,
+        "Letter": 1
+      },
+      "2020-03": {
+        "News": 6,
+        "Op-Ed": 2,
+        "Letter": 1
+      },
+      "2020-04": {
+        "News": 8,
+        "Op-Ed": 1,
+        "Interactive Feature": 1
+      },
+      "2020-05": {
+        "News": 5,
+        "Obituary (Obit)": 1,
+        "Letter": 1,
+        "Op-Ed": 1
+      },
+      "2020-06": {
+        "News": 39,
+        "Obituary (Obit)": 1,
+        "Review": 4,
+        "Video": 2,
+        "Letter": 1,
+        "Editorial": 1,
+        "Op-Ed": 7
+      },
+      "2020-07": {
+        "News": 14,
+        "Letter": 1
+      },
+      "2020-08": {
+        "Obituary (Obit)": 1,
+        "News": 11,
+        "Letter": 1,
+        "Review": 1
+      },
+      "2020-09": {
+        "Review": 1,
+        "News": 14,
+        "Op-Ed": 2,
+        "Video": 1
+      },
+      "2020-10": {
+        "Obituary (Obit)": 3,
+        "News": 10,
+        "Interactive Feature": 1,
+        "briefing": 1
+      },
+      "2020-11": {
+        "Op-Ed": 1,
+        "News": 8,
+        "Review": 2,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 1
+      },
+      "2020-12": {
+        "News": 10,
+        "briefing": 1
+      },
+      "2021-01": {
+        "News": 13,
+        "Video": 1,
+        "Op-Ed": 2,
+        "Review": 2
+      },
+      "2021-02": {
+        "Op-Ed": 1,
+        "News": 7,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 2,
+        "List": 1,
+        "Review": 1,
+        "Video": 2
+      },
+      "2021-03": {
+        "News": 14,
+        "Letter": 1,
+        "Op-Ed": 3,
+        "Review": 1,
+        "Obituary (Obit)": 1,
+        "Quote": 1
+      },
+      "2021-04": {
+        "Op-Ed": 7,
+        "News": 22,
+        "Video": 1,
+        "Letter": 1
+      },
+      "2021-05": {
+        "Op-Ed": 3,
+        "News": 19,
+        "Editorial": 1
+      },
+      "2021-06": {
+        "News": 38,
+        "Op-Ed": 7,
+        "briefing": 3,
+        "Review": 4,
+        "Interactive Feature": 1
+      },
+      "2021-07": {
+        "News": 11,
+        "Review": 1,
+        "Video": 1
+      },
+      "2021-08": {
+        "News": 8,
+        "Review": 2,
+        "Op-Ed": 2,
+        "Interactive Feature": 1,
+        "Video": 1,
+        "Letter": 1
+      },
+      "2021-09": {
+        "News": 19,
+        "Review": 3,
+        "Op-Ed": 3
+      },
+      "2021-10": {
+        "News": 21,
+        "Letter": 1,
+        "Op-Ed": 6
+      },
+      "2021-11": {
+        "News": 7,
+        "Review": 2,
+        "Op-Ed": 1,
+        "Interactive Feature": 2
+      },
+      "2021-12": {
+        "News": 5,
+        "Obituary (Obit)": 1,
+        "Review": 1,
+        "Interactive Feature": 2,
+        "Op-Ed": 1
+      },
+      "2022-01": {
+        "Obituary (Obit)": 1,
+        "Op-Ed": 2,
+        "News": 9,
+        "Review": 1
+      },
+      "2022-02": {
+        "News": 12,
+        "Op-Ed": 2,
+        "Review": 1
+      },
+      "2022-03": {
+        "News": 25,
+        "Letter": 2,
+        "Op-Ed": 7,
+        "Obituary (Obit)": 1,
+        "Review": 1,
+        "briefing": 1
+      },
+      "2022-04": {
+        "News": 27,
+        "briefing": 2,
+        "Op-Ed": 7,
+        "Interactive Feature": 1,
+        "Letter": 1
+      },
+      "2022-05": {
+        "News": 16,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 1,
+        "Op-Ed": 1
+      },
+      "2022-06": {
+        "News": 19,
+        "Op-Ed": 5,
+        "Review": 3,
+        "briefing": 1,
+        "Video": 1,
+        "Letter": 1,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 1,
+        "Quote": 1
+      },
+      "2022-07": {
+        "News": 16,
+        "Op-Ed": 2,
+        "briefing": 1,
+        "Review": 1,
+        "Letter": 1
+      },
+      "2022-08": {
+        "News": 8,
+        "Review": 5,
+        "Op-Ed": 2,
+        "briefing": 1
+      },
+      "2022-09": {
+        "News": 12,
+        "Op-Ed": 3,
+        "Review": 1,
+        "Interactive Feature": 2
+      },
+      "2022-10": {
+        "briefing": 1,
+        "Op-Ed": 3,
+        "News": 7,
+        "Letter": 1,
+        "Quote": 1,
+        "Review": 1,
+        "Obituary (Obit)": 1
+      },
+      "2022-11": {
+        "News": 20,
+        "Review": 2,
+        "Interactive Feature": 2,
+        "Letter": 2,
+        "Op-Ed": 3
+      },
+      "2022-12": {
+        "Review": 3,
+        "News": 14,
+        "Op-Ed": 3,
+        "Letter": 1,
+        "Editorial": 1
+      },
+      "2023-01": {
+        "News": 17,
+        "Op-Ed": 4,
+        "Letter": 5,
+        "Video": 1,
+        "Interactive Feature": 1
+      },
+      "2023-02": {
+        "News": 16,
+        "Interactive Feature": 2,
+        "Letter": 3,
+        "Op-Ed": 5,
+        "Review": 1,
+        "Obituary (Obit)": 1
+      },
+      "2023-03": {
+        "Op-Ed": 6,
+        "News": 12,
+        "Obituary (Obit)": 3,
+        "Review": 1,
+        "Letter": 1,
+        "Interactive Feature": 1
+      },
+      "2023-04": {
+        "News": 34,
+        "Op-Ed": 5,
+        "Review": 1,
+        "Letter": 4,
+        "Obituary (Obit)": 2,
+        "Correction": 1,
+        "Video": 1,
+        "Interactive Feature": 1
+      },
+      "2023-05": {
+        "News": 24,
+        "Op-Ed": 5,
+        "Review": 3,
+        "Interactive Feature": 1,
+        "Letter": 2
+      },
+      "2023-06": {
+        "News": 48,
+        "Interactive Feature": 1,
+        "Review": 3,
+        "Op-Ed": 8,
+        "Obituary (Obit)": 1,
+        "Video": 2
+      },
+      "2023-07": {
+        "News": 21,
+        "Op-Ed": 6,
+        "Letter": 2,
+        "Review": 1,
+        "Editorial": 1,
+        "Interactive Feature": 1
+      },
+      "2023-08": {
+        "News": 27,
+        "Review": 3,
+        "Interactive Feature": 2,
+        "Op-Ed": 1
+      },
+      "2023-09": {
+        "News": 16,
+        "Op-Ed": 2,
+        "Review": 1
+      },
+      "2023-10": {
+        "Review": 1,
+        "News": 13,
+        "Op-Ed": 1,
+        "briefing": 1
+      },
+      "2023-11": {
+        "News": 8,
+        "Review": 3,
+        "Correction": 1,
+        "Op-Ed": 2
+      },
+      "2023-12": {
+        "Op-Ed": 6,
+        "News": 13,
+        "Obituary (Obit)": 1,
+        "Interactive Feature": 1
+      },
+      "2024-01": {
+        "News": 12,
+        "Interactive Feature": 1,
+        "Op-Ed": 1
+      },
+      "2024-02": {
+        "Op-Ed": 2,
+        "Editorial": 1,
+        "News": 24,
+        "Review": 2,
+        "Letter": 1,
+        "Obituary (Obit)": 1,
+        "Correction": 2,
+        "briefing": 1
+      },
+      "2024-03": {
+        "News": 11,
+        "Op-Ed": 2,
+        "Review": 1
+      },
+      "2024-04": {
+        "News": 19,
+        "Op-Ed": 4,
+        "Review": 2,
+        "Letter": 1,
+        "Obituary (Obit)": 2
+      },
+      "2024-05": {
+        "News": 14,
+        "Obituary (Obit)": 1,
+        "Review": 2,
+        "Letter": 1
+      },
+      "2024-06": {
+        "News": 23,
+        "Obituary (Obit)": 2,
+        "Op-Ed": 3,
+        "Interactive Feature": 1
+      },
+      "2024-07": {
+        "Op-Ed": 2,
+        "Letter": 1,
+        "News": 12,
+        "Obituary (Obit)": 1
+      },
+      "2024-08": {
+        "News": 18,
+        "Op-Ed": 2,
+        "Review": 1
+      },
+      "2024-09": {
+        "Letter": 1,
+        "News": 10,
+        "Review": 5
+      },
+      "2024-10": {
+        "News": 20,
+        "Op-Ed": 4,
+        "Interactive Feature": 1
+      },
+      "2024-11": {
+        "News": 20,
+        "Op-Ed": 4,
+        "Review": 1,
+        "Letter": 2
+      },
+      "2024-12": {
+        "News": 26,
+        "Op-Ed": 4,
+        "Correction": 1,
+        "Letter": 2,
+        "briefing": 1,
+        "Obituary (Obit)": 1
+      },
+      "2025-01": {
+        "News": 24,
+        "Obituary (Obit)": 1,
+        "Live Blog Post": 2
+      },
+      "2025-02": {
+        "News": 43,
+        "Op-Ed": 2,
+        "Live Blog Post": 3,
+        "Editorial": 1,
+        "Letter": 3
+      },
+      "2025-03": {
+        "News": 27,
+        "Interactive Feature": 1,
+        "Letter": 1,
+        "Op-Ed": 5
+      },
+      "2025-04": {
+        "Op-Ed": 4,
+        "News": 25,
+        "Review": 1,
+        "Obituary (Obit)": 1,
+        "Live Blog Post": 1
+      },
+      "2025-05": {
+        "News": 19,
+        "Live Blog Post": 2,
+        "Op-Ed": 1,
+        "Letter": 1,
+        "Interactive Feature": 1
+      },
+      "2025-06": {
+        "News": 41,
+        "briefing": 2,
+        "Letter": 1,
+        "Op-Ed": 5,
+        "Live Blog Post": 1,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 1
+      },
+      "2025-07": {
+        "Letter": 1,
+        "News": 15,
+        "Op-Ed": 1,
+        "Interactive Feature": 1,
+        "Obituary (Obit)": 1
+      },
+      "2025-08": {
+        "News": 9,
+        "Op-Ed": 1,
+        "Editorial": 1,
+        "Live Blog Post": 1
+      },
+      "2025-09": {
+        "News": 12,
+        "Obituary (Obit)": 1,
+        "Op-Ed": 2
+      },
+      "2025-10": {
+        "Review": 2,
+        "News": 14,
+        "Live Blog Post": 1,
+        "Op-Ed": 2,
+        "Obituary (Obit)": 2
+      },
+      "2025-11": {
+        "News": 14,
+        "Op-Ed": 1,
+        "Review": 1
+      },
+      "2025-12": {
+        "News": 8,
+        "Op-Ed": 2,
+        "Obituary (Obit)": 1,
+        "Interactive Feature": 1
+      },
+      "2026-01": {
+        "News": 17,
+        "Op-Ed": 1,
+        "Live Blog Post": 2
+      },
+      "2026-02": {
+        "News": 16,
+        "Review": 1,
+        "Op-Ed": 1
+      },
+      "2026-03": {
+        "News": 17,
+        "Letter": 1,
+        "Op-Ed": 2,
+        "News Analysis": 1,
+        "Obituary (Obit)": 1
+      },
+      "2026-04": {
+        "News": 4
+      }
+    }
+  },
+  "word_count_analysis": {
+    "by_framing": {
+      "human_interest": {
+        "count": 297,
+        "mean": 1136,
+        "median": 947,
+        "min": 80,
+        "max": 7925
+      },
+      "rights_affirming": {
+        "count": 424,
+        "mean": 1029,
+        "median": 945,
+        "min": 1,
+        "max": 13814
+      },
+      "legislative_neutral": {
+        "count": 990,
+        "mean": 1041,
+        "median": 890,
+        "min": 49,
+        "max": 11600
+      },
+      "unclassified": {
+        "count": 578,
+        "mean": 1092,
+        "median": 981,
+        "min": 1,
+        "max": 8817
+      },
+      "culture_war": {
+        "count": 231,
+        "mean": 1231,
+        "median": 1057,
+        "min": 55,
+        "max": 10927
+      },
+      "arts_culture": {
+        "count": 292,
+        "mean": 1039,
+        "median": 936,
+        "min": 23,
+        "max": 10821
+      },
+      "violence_safety": {
+        "count": 138,
+        "mean": 912,
+        "median": 834,
+        "min": 45,
+        "max": 3264
+      },
+      "obituary_memorial": {
+        "count": 26,
+        "mean": 1090,
+        "median": 1077,
+        "min": 299,
+        "max": 2611
+      },
+      "international": {
+        "count": 25,
+        "mean": 1132,
+        "median": 1072,
+        "min": 183,
+        "max": 3566
+      },
+      "medical_skepticism": {
+        "count": 110,
+        "mean": 1183,
+        "median": 1005,
+        "min": 165,
+        "max": 5273
+      }
+    },
+    "by_placement": {
+      "interior": {
+        "count": 1712,
+        "mean": 1105,
+        "median": 959,
+        "min": 16,
+        "max": 11600
+      },
+      "online_only": {
+        "count": 902,
+        "mean": 864,
+        "median": 728,
+        "min": 1,
+        "max": 13814
+      },
+      "section_front": {
+        "count": 159,
+        "mean": 1549,
+        "median": 1391,
+        "min": 596,
+        "max": 3843
+      },
+      "front_page": {
+        "count": 144,
+        "mean": 1731,
+        "median": 1513,
+        "min": 808,
+        "max": 7925
+      },
+      "prominent": {
+        "count": 193,
+        "mean": 874,
+        "median": 832,
+        "min": 31,
+        "max": 10821
+      },
+      "unknown": {
+        "count": 1,
+        "mean": 828,
+        "median": 828,
+        "min": 828,
+        "max": 828
+      }
+    }
+  },
+  "cross_tabulation": {
+    "cross_tab": {
+      "human_interest": {
+        "interior": 151,
+        "online_only": 108,
+        "section_front": 25,
+        "prominent": 25,
+        "front_page": 9
+      },
+      "rights_affirming": {
+        "interior": 241,
+        "section_front": 22,
+        "online_only": 150,
+        "prominent": 28,
+        "front_page": 9,
+        "unknown": 1
+      },
+      "legislative_neutral": {
+        "interior": 589,
+        "online_only": 294,
+        "front_page": 80,
+        "prominent": 37,
+        "section_front": 20
+      },
+      "unclassified": {
+        "interior": 290,
+        "online_only": 227,
+        "front_page": 8,
+        "prominent": 41,
+        "section_front": 45
+      },
+      "culture_war": {
+        "online_only": 76,
+        "interior": 116,
+        "section_front": 12,
+        "prominent": 11,
+        "front_page": 19
+      },
+      "arts_culture": {
+        "interior": 158,
+        "online_only": 66,
+        "prominent": 45,
+        "section_front": 29,
+        "front_page": 2
+      },
+      "violence_safety": {
+        "interior": 82,
+        "front_page": 5,
+        "online_only": 51,
+        "prominent": 4
+      },
+      "obituary_memorial": {
+        "interior": 20,
+        "front_page": 1,
+        "online_only": 4,
+        "section_front": 2
+      },
+      "international": {
+        "interior": 17,
+        "online_only": 8,
+        "section_front": 1
+      },
+      "medical_skepticism": {
+        "interior": 58,
+        "section_front": 3,
+        "online_only": 39,
+        "front_page": 11,
+        "prominent": 2
+      }
+    },
+    "prominence_scores": {
+      "human_interest": {
+        "mean_prominence": 0.981,
+        "total_articles": 318,
+        "distribution": {
+          "interior": 151,
+          "online_only": 108,
+          "section_front": 25,
+          "prominent": 25,
+          "front_page": 9
+        }
+      },
+      "rights_affirming": {
+        "mean_prominence": 0.885,
+        "total_articles": 451,
+        "distribution": {
+          "interior": 241,
+          "section_front": 22,
+          "online_only": 150,
+          "prominent": 28,
+          "front_page": 9,
+          "unknown": 1
+        }
+      },
+      "legislative_neutral": {
+        "mean_prominence": 1.023,
+        "total_articles": 1020,
+        "distribution": {
+          "interior": 589,
+          "online_only": 294,
+          "front_page": 80,
+          "prominent": 37,
+          "section_front": 20
+        }
+      },
+      "unclassified": {
+        "mean_prominence": 0.882,
+        "total_articles": 611,
+        "distribution": {
+          "interior": 290,
+          "online_only": 227,
+          "front_page": 8,
+          "prominent": 41,
+          "section_front": 45
+        }
+      },
+      "culture_war": {
+        "mean_prominence": 1.068,
+        "total_articles": 234,
+        "distribution": {
+          "online_only": 76,
+          "interior": 116,
+          "section_front": 12,
+          "prominent": 11,
+          "front_page": 19
+        }
+      },
+      "arts_culture": {
+        "mean_prominence": 1.143,
+        "total_articles": 300,
+        "distribution": {
+          "interior": 158,
+          "online_only": 66,
+          "prominent": 45,
+          "section_front": 29,
+          "front_page": 2
+        }
+      },
+      "violence_safety": {
+        "mean_prominence": 0.775,
+        "total_articles": 142,
+        "distribution": {
+          "interior": 82,
+          "front_page": 5,
+          "online_only": 51,
+          "prominent": 4
+        }
+      },
+      "obituary_memorial": {
+        "mean_prominence": 1.111,
+        "total_articles": 27,
+        "distribution": {
+          "interior": 20,
+          "front_page": 1,
+          "online_only": 4,
+          "section_front": 2
+        }
+      },
+      "international": {
+        "mean_prominence": 0.769,
+        "total_articles": 26,
+        "distribution": {
+          "interior": 17,
+          "online_only": 8,
+          "section_front": 1
+        }
+      },
+      "medical_skepticism": {
+        "mean_prominence": 1.018,
+        "total_articles": 113,
+        "distribution": {
+          "interior": 58,
+          "section_front": 3,
+          "online_only": 39,
+          "front_page": 11,
+          "prominent": 2
+        }
+      }
+    }
+  },
+  "focus_analysis": {
+    "tier_counts": {
+      "focus": 2702,
+      "substantial": 515,
+      "passing": 25
+    },
+    "framing_by_tier": {
+      "focus": {
+        "human_interest": 272,
+        "rights_affirming": 367,
+        "legislative_neutral": 908,
+        "unclassified": 468,
+        "culture_war": 206,
+        "violence_safety": 126,
+        "arts_culture": 199,
+        "obituary_memorial": 26,
+        "international": 23,
+        "medical_skepticism": 107
+      },
+      "substantial": {
+        "human_interest": 44,
+        "rights_affirming": 77,
+        "unclassified": 139,
+        "arts_culture": 97,
+        "legislative_neutral": 105,
+        "violence_safety": 16,
+        "medical_skepticism": 6,
+        "international": 3,
+        "culture_war": 27,
+        "obituary_memorial": 1
+      },
+      "passing": {
+        "rights_affirming": 7,
+        "unclassified": 4,
+        "arts_culture": 4,
+        "legislative_neutral": 7,
+        "human_interest": 2,
+        "culture_war": 1
+      }
+    },
+    "placement_by_tier": {
+      "focus": {
+        "interior": 1456,
+        "online_only": 823,
+        "section_front": 131,
+        "front_page": 136,
+        "prominent": 156
+      },
+      "substantial": {
+        "interior": 254,
+        "online_only": 191,
+        "section_front": 27,
+        "prominent": 34,
+        "front_page": 8,
+        "unknown": 1
+      },
+      "passing": {
+        "section_front": 1,
+        "interior": 12,
+        "online_only": 9,
+        "prominent": 3
+      }
+    },
+    "section_by_tier": {
+      "focus": {
+        "U.S.": 860,
+        "Opinion": 527,
+        "Arts": 176,
+        "World": 163,
+        "New York": 154,
+        "Style": 94,
+        "Movies": 75,
+        "Sports": 69,
+        "Business Day": 64,
+        "Health": 63
+      },
+      "substantial": {
+        "U.S.": 107,
+        "Arts": 56,
+        "Opinion": 48,
+        "Movies": 41,
+        "Books": 33,
+        "Theater": 27,
+        "New York": 24,
+        "World": 22,
+        "Fashion & Style": 22,
+        "Style": 21
+      },
+      "passing": {
+        "Arts": 6,
+        "Books": 4,
+        "New York": 3,
+        "Theater": 2,
+        "Opinion": 2,
+        "U.S.": 2,
+        "Style": 1,
+        "T Magazine": 1,
+        "Obituaries": 1,
+        "Magazine": 1
+      }
+    },
+    "word_count_by_tier": {
+      "focus": {
+        "count": 2596,
+        "mean": 1107,
+        "median": 974
+      },
+      "substantial": {
+        "count": 492,
+        "mean": 882,
+        "median": 815
+      },
+      "passing": {
+        "count": 23,
+        "mean": 1185,
+        "median": 946
+      }
+    },
+    "monthly_by_tier": {
+      "2014-01": {
+        "substantial": 4,
+        "focus": 4
+      },
+      "2014-02": {
+        "substantial": 5,
+        "focus": 6
+      },
+      "2014-03": {
+        "focus": 8,
+        "substantial": 1
+      },
+      "2014-04": {
+        "substantial": 5,
+        "focus": 4
+      },
+      "2014-05": {
+        "focus": 15,
+        "substantial": 1
+      },
+      "2014-06": {
+        "focus": 8,
+        "substantial": 5
+      },
+      "2014-07": {
+        "focus": 8,
+        "substantial": 6
+      },
+      "2014-08": {
+        "focus": 3,
+        "substantial": 2
+      },
+      "2014-09": {
+        "focus": 7,
+        "substantial": 4
+      },
+      "2014-10": {
+        "substantial": 1,
+        "focus": 5
+      },
+      "2014-11": {
+        "focus": 7,
+        "substantial": 3
+      },
+      "2014-12": {
+        "focus": 12,
+        "substantial": 2
+      },
+      "2015-01": {
+        "focus": 12,
+        "substantial": 2
+      },
+      "2015-02": {
+        "focus": 11,
+        "substantial": 4
+      },
+      "2015-03": {
+        "focus": 6,
+        "substantial": 6
+      },
+      "2015-04": {
+        "focus": 16,
+        "substantial": 1
+      },
+      "2015-05": {
+        "substantial": 5,
+        "focus": 16
+      },
+      "2015-06": {
+        "focus": 36,
+        "substantial": 3,
+        "passing": 1
+      },
+      "2015-07": {
+        "focus": 24,
+        "substantial": 8
+      },
+      "2015-08": {
+        "focus": 17,
+        "substantial": 4
+      },
+      "2015-09": {
+        "focus": 17,
+        "substantial": 6
+      },
+      "2015-10": {
+        "substantial": 4,
+        "focus": 16
+      },
+      "2015-11": {
+        "focus": 32,
+        "substantial": 4,
+        "passing": 1
+      },
+      "2015-12": {
+        "focus": 22,
+        "substantial": 1
+      },
+      "2016-01": {
+        "substantial": 5,
+        "focus": 6
+      },
+      "2016-02": {
+        "substantial": 5,
+        "focus": 7
+      },
+      "2016-03": {
+        "focus": 26,
+        "substantial": 5
+      },
+      "2016-04": {
+        "focus": 50,
+        "substantial": 8
+      },
+      "2016-05": {
+        "focus": 55,
+        "substantial": 8
+      },
+      "2016-06": {
+        "focus": 43,
+        "substantial": 10
+      },
+      "2016-07": {
+        "focus": 18,
+        "substantial": 3,
+        "passing": 1
+      },
+      "2016-08": {
+        "focus": 15,
+        "substantial": 1
+      },
+      "2016-09": {
+        "focus": 17,
+        "substantial": 5
+      },
+      "2016-10": {
+        "focus": 13,
+        "substantial": 2
+      },
+      "2016-11": {
+        "substantial": 2,
+        "focus": 12
+      },
+      "2016-12": {
+        "focus": 15,
+        "substantial": 3
+      },
+      "2017-01": {
+        "focus": 20,
+        "substantial": 8
+      },
+      "2017-02": {
+        "focus": 31,
+        "substantial": 12
+      },
+      "2017-03": {
+        "focus": 25,
+        "substantial": 2
+      },
+      "2017-04": {
+        "focus": 20,
+        "substantial": 5
+      },
+      "2017-05": {
+        "substantial": 8,
+        "focus": 13
+      },
+      "2017-06": {
+        "substantial": 13,
+        "focus": 14,
+        "passing": 1
+      },
+      "2017-07": {
+        "focus": 34,
+        "substantial": 3
+      },
+      "2017-08": {
+        "focus": 23,
+        "substantial": 2
+      },
+      "2017-09": {
+        "focus": 9,
+        "passing": 1,
+        "substantial": 3
+      },
+      "2017-10": {
+        "focus": 22,
+        "substantial": 4
+      },
+      "2017-11": {
+        "focus": 24,
+        "substantial": 3
+      },
+      "2017-12": {
+        "substantial": 7,
+        "focus": 8
+      },
+      "2018-01": {
+        "focus": 11,
+        "substantial": 1
+      },
+      "2018-02": {
+        "focus": 14,
+        "substantial": 4
+      },
+      "2018-03": {
+        "substantial": 1,
+        "focus": 15
+      },
+      "2018-04": {
+        "focus": 9,
+        "substantial": 3,
+        "passing": 1
+      },
+      "2018-05": {
+        "focus": 8,
+        "substantial": 6
+      },
+      "2018-06": {
+        "focus": 19,
+        "substantial": 3,
+        "passing": 1
+      },
+      "2018-07": {
+        "substantial": 5,
+        "focus": 17
+      },
+      "2018-08": {
+        "focus": 9,
+        "substantial": 4
+      },
+      "2018-09": {
+        "focus": 7,
+        "substantial": 3,
+        "passing": 2
+      },
+      "2018-10": {
+        "focus": 33,
+        "substantial": 2
+      },
+      "2018-11": {
+        "focus": 11,
+        "substantial": 4
+      },
+      "2018-12": {
+        "focus": 6
+      },
+      "2019-01": {
+        "focus": 13,
+        "substantial": 4
+      },
+      "2019-02": {
+        "passing": 1,
+        "focus": 12,
+        "substantial": 2
+      },
+      "2019-03": {
+        "substantial": 7,
+        "focus": 10
+      },
+      "2019-04": {
+        "focus": 16,
+        "substantial": 4
+      },
+      "2019-05": {
+        "focus": 26,
+        "substantial": 6
+      },
+      "2019-06": {
+        "substantial": 9,
+        "focus": 41,
+        "passing": 1
+      },
+      "2019-07": {
+        "focus": 10,
+        "substantial": 4
+      },
+      "2019-08": {
+        "focus": 9,
+        "substantial": 4
+      },
+      "2019-09": {
+        "substantial": 5,
+        "focus": 13
+      },
+      "2019-10": {
+        "focus": 15,
+        "substantial": 4
+      },
+      "2019-11": {
+        "focus": 14,
+        "substantial": 4
+      },
+      "2019-12": {
+        "focus": 10,
+        "substantial": 2
+      },
+      "2020-01": {
+        "focus": 8,
+        "substantial": 1
+      },
+      "2020-02": {
+        "focus": 7,
+        "substantial": 3
+      },
+      "2020-03": {
+        "focus": 9
+      },
+      "2020-04": {
+        "focus": 9,
+        "substantial": 1
+      },
+      "2020-05": {
+        "focus": 8
+      },
+      "2020-06": {
+        "focus": 48,
+        "substantial": 7
+      },
+      "2020-07": {
+        "focus": 14,
+        "substantial": 1
+      },
+      "2020-08": {
+        "focus": 13,
+        "substantial": 1
+      },
+      "2020-09": {
+        "focus": 18
+      },
+      "2020-10": {
+        "focus": 13,
+        "substantial": 2
+      },
+      "2020-11": {
+        "substantial": 2,
+        "focus": 11
+      },
+      "2020-12": {
+        "focus": 7,
+        "substantial": 4
+      },
+      "2021-01": {
+        "focus": 16,
+        "substantial": 1,
+        "passing": 1
+      },
+      "2021-02": {
+        "focus": 12,
+        "passing": 1,
+        "substantial": 2
+      },
+      "2021-03": {
+        "substantial": 3,
+        "focus": 18
+      },
+      "2021-04": {
+        "focus": 29,
+        "substantial": 2
+      },
+      "2021-05": {
+        "substantial": 6,
+        "focus": 17
+      },
+      "2021-06": {
+        "focus": 47,
+        "substantial": 5,
+        "passing": 1
+      },
+      "2021-07": {
+        "focus": 13
+      },
+      "2021-08": {
+        "focus": 12,
+        "substantial": 3
+      },
+      "2021-09": {
+        "focus": 23,
+        "substantial": 1,
+        "passing": 1
+      },
+      "2021-10": {
+        "focus": 26,
+        "substantial": 2
+      },
+      "2021-11": {
+        "focus": 12
+      },
+      "2021-12": {
+        "substantial": 1,
+        "focus": 9
+      },
+      "2022-01": {
+        "focus": 13
+      },
+      "2022-02": {
+        "focus": 15
+      },
+      "2022-03": {
+        "focus": 30,
+        "substantial": 7
+      },
+      "2022-04": {
+        "focus": 31,
+        "substantial": 6,
+        "passing": 1
+      },
+      "2022-05": {
+        "focus": 19
+      },
+      "2022-06": {
+        "focus": 29,
+        "substantial": 3,
+        "passing": 1
+      },
+      "2022-07": {
+        "substantial": 5,
+        "focus": 16
+      },
+      "2022-08": {
+        "focus": 11,
+        "substantial": 5
+      },
+      "2022-09": {
+        "focus": 17,
+        "substantial": 1
+      },
+      "2022-10": {
+        "substantial": 2,
+        "focus": 13
+      },
+      "2022-11": {
+        "substantial": 4,
+        "focus": 25
+      },
+      "2022-12": {
+        "focus": 22
+      },
+      "2023-01": {
+        "focus": 26,
+        "substantial": 1,
+        "passing": 1
+      },
+      "2023-02": {
+        "focus": 24,
+        "substantial": 4
+      },
+      "2023-03": {
+        "focus": 22,
+        "substantial": 2
+      },
+      "2023-04": {
+        "focus": 45,
+        "substantial": 4
+      },
+      "2023-05": {
+        "focus": 28,
+        "substantial": 6,
+        "passing": 1
+      },
+      "2023-06": {
+        "substantial": 8,
+        "focus": 55
+      },
+      "2023-07": {
+        "focus": 24,
+        "substantial": 8
+      },
+      "2023-08": {
+        "focus": 27,
+        "substantial": 6
+      },
+      "2023-09": {
+        "substantial": 6,
+        "focus": 13
+      },
+      "2023-10": {
+        "focus": 12,
+        "substantial": 4
+      },
+      "2023-11": {
+        "focus": 12,
+        "substantial": 2
+      },
+      "2023-12": {
+        "focus": 15,
+        "substantial": 6
+      },
+      "2024-01": {
+        "focus": 11,
+        "substantial": 3
+      },
+      "2024-02": {
+        "focus": 29,
+        "substantial": 5
+      },
+      "2024-03": {
+        "focus": 12,
+        "substantial": 2
+      },
+      "2024-04": {
+        "focus": 26,
+        "substantial": 2
+      },
+      "2024-05": {
+        "focus": 13,
+        "substantial": 5
+      },
+      "2024-06": {
+        "focus": 25,
+        "substantial": 4
+      },
+      "2024-07": {
+        "focus": 15,
+        "substantial": 1
+      },
+      "2024-08": {
+        "focus": 12,
+        "substantial": 9
+      },
+      "2024-09": {
+        "focus": 14,
+        "substantial": 2
+      },
+      "2024-10": {
+        "focus": 21,
+        "substantial": 4
+      },
+      "2024-11": {
+        "focus": 19,
+        "substantial": 7,
+        "passing": 1
+      },
+      "2024-12": {
+        "focus": 29,
+        "substantial": 4,
+        "passing": 2
+      },
+      "2025-01": {
+        "focus": 26,
+        "substantial": 1
+      },
+      "2025-02": {
+        "focus": 49,
+        "substantial": 3
+      },
+      "2025-03": {
+        "substantial": 3,
+        "focus": 31
+      },
+      "2025-04": {
+        "focus": 27,
+        "substantial": 4,
+        "passing": 1
+      },
+      "2025-05": {
+        "focus": 20,
+        "substantial": 4
+      },
+      "2025-06": {
+        "focus": 48,
+        "passing": 2,
+        "substantial": 2
+      },
+      "2025-07": {
+        "focus": 19
+      },
+      "2025-08": {
+        "focus": 12
+      },
+      "2025-09": {
+        "focus": 15
+      },
+      "2025-10": {
+        "substantial": 2,
+        "focus": 19
+      },
+      "2025-11": {
+        "focus": 13,
+        "substantial": 3
+      },
+      "2025-12": {
+        "focus": 12
+      },
+      "2026-01": {
+        "focus": 20
+      },
+      "2026-02": {
+        "focus": 17,
+        "substantial": 1
+      },
+      "2026-03": {
+        "focus": 21,
+        "substantial": 1
+      },
+      "2026-04": {
+        "focus": 4
+      }
+    }
+  },
+  "era_comparison": {
+    "eras": [
+      {
+        "key": "era_2014_2017",
+        "label": "2014–2017",
+        "start": "2014-01-01",
+        "end": "2018-01-01"
+      },
+      {
+        "key": "era_2018_2021",
+        "label": "2018–2021",
+        "start": "2018-01-01",
+        "end": "2022-01-01"
+      },
+      {
+        "key": "era_2022_plus",
+        "label": "2022–present",
+        "start": "2022-01-01",
+        "end": null
+      }
+    ],
+    "labels": {
+      "era_2014_2017": "2014–2017",
+      "era_2018_2021": "2018–2021",
+      "era_2022_plus": "2022–present"
+    },
+    "era_2014_2017": {
+      "count": 1051,
+      "framing_counts": {
+        "human_interest": 116,
+        "rights_affirming": 176,
+        "legislative_neutral": 314,
+        "unclassified": 218,
+        "culture_war": 66,
+        "arts_culture": 92,
+        "violence_safety": 52,
+        "obituary_memorial": 4,
+        "international": 4,
+        "medical_skepticism": 9
+      },
+      "framing_pct": {
+        "human_interest": 11.04,
+        "rights_affirming": 16.75,
+        "legislative_neutral": 29.88,
+        "unclassified": 20.74,
+        "culture_war": 6.28,
+        "arts_culture": 8.75,
+        "violence_safety": 4.95,
+        "obituary_memorial": 0.38,
+        "international": 0.38,
+        "medical_skepticism": 0.86
+      },
+      "focus_counts": {
+        "focus": 832,
+        "substantial": 214,
+        "passing": 5
+      },
+      "focus_pct": {
+        "focus": 79.16,
+        "substantial": 20.36,
+        "passing": 0.48
+      },
+      "section_top": [
+        [
+          "U.S.",
+          262
+        ],
+        [
+          "Opinion",
+          217
+        ],
+        [
+          "Arts",
+          95
+        ],
+        [
+          "World",
+          60
+        ],
+        [
+          "Fashion & Style",
+          53
+        ],
+        [
+          "New York",
+          52
+        ],
+        [
+          "Business Day",
+          34
+        ],
+        [
+          "Sports",
+          32
+        ],
+        [
+          "Movies",
+          29
+        ],
+        [
+          "Magazine",
+          26
+        ]
+      ],
+      "reporter_top": [
+        [
+          "The Editorial Board",
+          49
+        ],
+        [
+          "Liam Stack",
+          24
+        ],
+        [
+          "Jennifer Finney Boylan",
+          18
+        ],
+        [
+          "The New York Times",
+          13
+        ],
+        [
+          "Deborah Sontag",
+          12
+        ],
+        [
+          "Richard Fausset",
+          12
+        ],
+        [
+          "Jacob Bernstein",
+          11
+        ],
+        [
+          "Kathryn Shattuck",
+          10
+        ],
+        [
+          "Frank Bruni",
+          10
+        ],
+        [
+          "Helene Cooper",
+          10
+        ]
+      ],
+      "placement_counts": {
+        "interior": 546,
+        "online_only": 311,
+        "section_front": 68,
+        "front_page": 44,
+        "prominent": 81,
+        "unknown": 1
+      },
+      "word_count_mean": 917,
+      "word_count_median": 817,
+      "monthly_volume": {
+        "2014-01": 8,
+        "2014-02": 11,
+        "2014-03": 9,
+        "2014-04": 9,
+        "2014-05": 16,
+        "2014-06": 13,
+        "2014-07": 14,
+        "2014-08": 5,
+        "2014-09": 11,
+        "2014-10": 6,
+        "2014-11": 10,
+        "2014-12": 14,
+        "2015-01": 14,
+        "2015-02": 15,
+        "2015-03": 12,
+        "2015-04": 17,
+        "2015-05": 21,
+        "2015-06": 40,
+        "2015-07": 32,
+        "2015-08": 21,
+        "2015-09": 23,
+        "2015-10": 20,
+        "2015-11": 37,
+        "2015-12": 23,
+        "2016-01": 11,
+        "2016-02": 12,
+        "2016-03": 31,
+        "2016-04": 58,
+        "2016-05": 63,
+        "2016-06": 53,
+        "2016-07": 22,
+        "2016-08": 16,
+        "2016-09": 22,
+        "2016-10": 15,
+        "2016-11": 14,
+        "2016-12": 18,
+        "2017-01": 28,
+        "2017-02": 43,
+        "2017-03": 27,
+        "2017-04": 25,
+        "2017-05": 21,
+        "2017-06": 28,
+        "2017-07": 37,
+        "2017-08": 25,
+        "2017-09": 13,
+        "2017-10": 26,
+        "2017-11": 27,
+        "2017-12": 15
+      },
+      "front_page_rate": 0.0419
+    },
+    "era_2018_2021": {
+      "count": 896,
+      "framing_counts": {
+        "human_interest": 102,
+        "unclassified": 181,
+        "rights_affirming": 150,
+        "legislative_neutral": 237,
+        "arts_culture": 98,
+        "medical_skepticism": 8,
+        "culture_war": 53,
+        "violence_safety": 44,
+        "obituary_memorial": 11,
+        "international": 12
+      },
+      "framing_pct": {
+        "human_interest": 11.38,
+        "unclassified": 20.2,
+        "rights_affirming": 16.74,
+        "legislative_neutral": 26.45,
+        "arts_culture": 10.94,
+        "medical_skepticism": 0.89,
+        "culture_war": 5.92,
+        "violence_safety": 4.91,
+        "obituary_memorial": 1.23,
+        "international": 1.34
+      },
+      "focus_counts": {
+        "focus": 747,
+        "substantial": 139,
+        "passing": 10
+      },
+      "focus_pct": {
+        "focus": 83.37,
+        "substantial": 15.51,
+        "passing": 1.12
+      },
+      "section_top": [
+        [
+          "U.S.",
+          233
+        ],
+        [
+          "Opinion",
+          153
+        ],
+        [
+          "Arts",
+          73
+        ],
+        [
+          "World",
+          58
+        ],
+        [
+          "Style",
+          57
+        ],
+        [
+          "New York",
+          52
+        ],
+        [
+          "Movies",
+          39
+        ],
+        [
+          "Books",
+          36
+        ],
+        [
+          "Sports",
+          20
+        ],
+        [
+          "Business Day",
+          20
+        ]
+      ],
+      "reporter_top": [
+        [
+          "Jennifer Finney Boylan",
+          27
+        ],
+        [
+          "Adam Liptak",
+          13
+        ],
+        [
+          "Maya Salam",
+          11
+        ],
+        [
+          "Liam Stack",
+          10
+        ],
+        [
+          "The Editorial Board",
+          8
+        ],
+        [
+          "Mihir Zaveri",
+          7
+        ],
+        [
+          "Dan Levin",
+          7
+        ],
+        [
+          "The New York Times",
+          6
+        ],
+        [
+          "Cara Buckley",
+          6
+        ],
+        [
+          "Christina Caron",
+          6
+        ]
+      ],
+      "placement_counts": {
+        "online_only": 312,
+        "interior": 467,
+        "prominent": 57,
+        "section_front": 42,
+        "front_page": 18
+      },
+      "word_count_mean": 1067,
+      "word_count_median": 977,
+      "monthly_volume": {
+        "2018-01": 12,
+        "2018-02": 18,
+        "2018-03": 16,
+        "2018-04": 13,
+        "2018-05": 14,
+        "2018-06": 23,
+        "2018-07": 22,
+        "2018-08": 13,
+        "2018-09": 12,
+        "2018-10": 35,
+        "2018-11": 15,
+        "2018-12": 6,
+        "2019-01": 17,
+        "2019-02": 15,
+        "2019-03": 17,
+        "2019-04": 20,
+        "2019-05": 32,
+        "2019-06": 51,
+        "2019-07": 14,
+        "2019-08": 13,
+        "2019-09": 18,
+        "2019-10": 19,
+        "2019-11": 18,
+        "2019-12": 12,
+        "2020-01": 9,
+        "2020-02": 10,
+        "2020-03": 9,
+        "2020-04": 10,
+        "2020-05": 8,
+        "2020-06": 55,
+        "2020-07": 15,
+        "2020-08": 14,
+        "2020-09": 18,
+        "2020-10": 15,
+        "2020-11": 13,
+        "2020-12": 11,
+        "2021-01": 18,
+        "2021-02": 15,
+        "2021-03": 21,
+        "2021-04": 31,
+        "2021-05": 23,
+        "2021-06": 53,
+        "2021-07": 13,
+        "2021-08": 15,
+        "2021-09": 25,
+        "2021-10": 28,
+        "2021-11": 12,
+        "2021-12": 10
+      },
+      "front_page_rate": 0.0201
+    },
+    "era_2022_plus": {
+      "count": 1295,
+      "framing_counts": {
+        "obituary_memorial": 12,
+        "unclassified": 212,
+        "medical_skepticism": 96,
+        "human_interest": 100,
+        "arts_culture": 110,
+        "culture_war": 115,
+        "legislative_neutral": 469,
+        "rights_affirming": 125,
+        "international": 10,
+        "violence_safety": 46
+      },
+      "framing_pct": {
+        "obituary_memorial": 0.93,
+        "unclassified": 16.37,
+        "medical_skepticism": 7.41,
+        "human_interest": 7.72,
+        "arts_culture": 8.49,
+        "culture_war": 8.88,
+        "legislative_neutral": 36.22,
+        "rights_affirming": 9.65,
+        "international": 0.77,
+        "violence_safety": 3.55
+      },
+      "focus_counts": {
+        "focus": 1123,
+        "substantial": 162,
+        "passing": 10
+      },
+      "focus_pct": {
+        "focus": 86.72,
+        "substantial": 12.51,
+        "passing": 0.77
+      },
+      "section_top": [
+        [
+          "U.S.",
+          474
+        ],
+        [
+          "Opinion",
+          207
+        ],
+        [
+          "New York",
+          77
+        ],
+        [
+          "Arts",
+          70
+        ],
+        [
+          "World",
+          67
+        ],
+        [
+          "Movies",
+          48
+        ],
+        [
+          "Health",
+          46
+        ],
+        [
+          "Books",
+          45
+        ],
+        [
+          "Style",
+          44
+        ],
+        [
+          "Theater",
+          29
+        ]
+      ],
+      "reporter_top": [
+        [
+          "Amy Harmon",
+          34
+        ],
+        [
+          "Azeen Ghorayshi",
+          27
+        ],
+        [
+          "Adam Liptak",
+          23
+        ],
+        [
+          "Liam Stack",
+          15
+        ],
+        [
+          "J. David Goodman",
+          14
+        ],
+        [
+          "Erik Piepenburg",
+          12
+        ],
+        [
+          "Mitch Smith",
+          12
+        ],
+        [
+          "Annie Karni",
+          10
+        ],
+        [
+          "Maggie Astor",
+          10
+        ],
+        [
+          "Emily Cochrane",
+          10
+        ]
+      ],
+      "placement_counts": {
+        "interior": 709,
+        "section_front": 49,
+        "prominent": 55,
+        "online_only": 400,
+        "front_page": 82
+      },
+      "word_count_mean": 1197,
+      "word_count_median": 1044,
+      "monthly_volume": {
+        "2022-01": 13,
+        "2022-02": 15,
+        "2022-03": 37,
+        "2022-04": 38,
+        "2022-05": 19,
+        "2022-06": 33,
+        "2022-07": 21,
+        "2022-08": 16,
+        "2022-09": 18,
+        "2022-10": 15,
+        "2022-11": 29,
+        "2022-12": 22,
+        "2023-01": 28,
+        "2023-02": 28,
+        "2023-03": 24,
+        "2023-04": 49,
+        "2023-05": 35,
+        "2023-06": 63,
+        "2023-07": 32,
+        "2023-08": 33,
+        "2023-09": 19,
+        "2023-10": 16,
+        "2023-11": 14,
+        "2023-12": 21,
+        "2024-01": 14,
+        "2024-02": 34,
+        "2024-03": 14,
+        "2024-04": 28,
+        "2024-05": 18,
+        "2024-06": 29,
+        "2024-07": 16,
+        "2024-08": 21,
+        "2024-09": 16,
+        "2024-10": 25,
+        "2024-11": 27,
+        "2024-12": 35,
+        "2025-01": 27,
+        "2025-02": 52,
+        "2025-03": 34,
+        "2025-04": 32,
+        "2025-05": 24,
+        "2025-06": 52,
+        "2025-07": 19,
+        "2025-08": 12,
+        "2025-09": 15,
+        "2025-10": 21,
+        "2025-11": 16,
+        "2025-12": 12,
+        "2026-01": 20,
+        "2026-02": 18,
+        "2026-03": 22,
+        "2026-04": 4
+      },
+      "front_page_rate": 0.0633
+    }
+  }
+}
