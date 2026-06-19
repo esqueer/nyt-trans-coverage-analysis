@@ -77,7 +77,6 @@ type, NYT subject keywords, word count, and the scores:
 | `analysis_results.json` | Summary tables (framing counts, breakdowns) |
 | `nlp_baseline.json` | VADER baseline scores per article |
 | `nlp_llm_disagreements.csv` | Where the word-counter and the models diverge |
-| `vocab_panel.json` / `term_concordance.json` | Vocabulary-over-time analysis |
 | `openai_scores_archive.json` | Raw GPT-5 nano scores (excluded from the ensemble) |
 
 ## Code
@@ -92,7 +91,6 @@ type, NYT subject keywords, word count, and the scores:
 | `nlp_baseline.py` | VADER / rule-based sentiment baseline |
 | `nyt_trans_analysis.py` | Corpus collection + the main analysis |
 | `make_article_charts.py` | Generates the figures |
-| `corpus_concordance.py`, `vocab_panel.py` | Vocabulary-over-time analysis |
 | `weighting_robustness.py`, `inflection_check.py`, `methodology_review.py` | Robustness checks |
 
 ### Reproducing
